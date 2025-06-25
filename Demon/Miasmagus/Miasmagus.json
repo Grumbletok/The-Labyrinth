@@ -1,0 +1,11 @@
+{
+  "id": "miasmagus",
+  "name": "Miasmagus",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image_good.png?raw=true"],
+  "team": "demon",
+  "otherNightReminder": "Wake up the Miasmagus and have them choose a player. Put the Dead reminder token on the chosen player. Then, if that player is an Outsider, put the Poisoned reminder token on a Townsfolk player",
+  "reminders": ["Dead", "Poisoned"],
+  "setup": true,
+  "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR +2 Stalkers]"
+}
