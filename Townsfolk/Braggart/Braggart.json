@@ -1,0 +1,14 @@
+{
+  "id": "braggart",
+  "name": "Braggart",
+  "edition": "custom",
+  "image": [
+ 
+ ],
+  "team": "townsfolk,
+  "reminders": ["Used"],
+  "remindersGlobal":
+  "setup": false,
+  "ability": Once per game, during the day, publicly choose a player: If they are a Minion and more than 4 players live, you are both executed.
+    
+}
