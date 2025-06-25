@@ -1,0 +1,11 @@
+{
+  "id": "peregrimor",
+  "name": "Peregrimor",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image_good.png?raw=true"],
+  "team": "demon",
+  "firstNightReminder": "Wake up the Peregrimor and show them each player that is an Outsider. Then wake up each evil Outsider in turn and show them the player that is the Peregrimor.",
+  "reminders": ["Dead"],
+  "setup": true,
+  "ability": "You know all Outsiders. Evil Outsiders learns who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders.]"
+}
