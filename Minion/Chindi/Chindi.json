@@ -1,0 +1,10 @@
+{
+  "id": "chindi",
+  "name": "Chindi",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image_good.png?raw=true"],
+  "team": "minion",
+  "reminders": ["Enthralled"],
+  "setup": false,
+  "ability": "When you learn that you have died you may publicly choose 3 living players; 1 becomes Evil tonight."
+}
