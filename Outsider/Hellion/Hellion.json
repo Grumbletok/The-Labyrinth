@@ -1,0 +1,9 @@
+{
+  "id": "hellion",
+  "name": "Hellion",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"],
+  "team": "outsider",
+  "setup": false,
+  "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon."
+}
