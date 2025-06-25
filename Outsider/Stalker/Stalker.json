@@ -8,5 +8,5 @@
   "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
   "reminders": ["Stalked"], 
   "setup": true,
-  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +3 Stalkers]"
+  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +1 Stalker]"
 }
