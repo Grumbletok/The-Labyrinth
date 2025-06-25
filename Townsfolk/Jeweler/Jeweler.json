@@ -1,0 +1,16 @@
+{
+  "id": "jeweler",
+  "name": "Jeweler",
+  "edition": "custom",
+  "image": [
+ 
+ ],
+  "team": "Townsfolk",
+  "firstNight": 0,
+  "firstNightReminder": "Wake up the demon, show them the Jeweler token and have them choose a player. If the Jeweler is chosen, put the Poisoned reminder token on them.",
+  "otherNight": 0,
+  "otherNightReminder": "On the 3rd night, wake up the Jewler and show them a set of character tokens identical to the ones you showed the demon during the Demon Info step on the first night.",
+  "reminders": ["Poisoned"], 
+  "setup": false,
+  "ability": "Each night, the demon chooses a player; if chosen, you are poisoned. On your third night you learn the Demon Bluffs."
+}
