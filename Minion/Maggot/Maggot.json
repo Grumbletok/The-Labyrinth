@@ -1,0 +1,10 @@
+{
+  "id": "maggot",
+  "name": "Maggot",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"],
+  "team": "minion",
+  "reminders": ["Infested"],
+  "setup": true,
+  "ability": "On your first night, all Townsfolk characters are poisoned until Dusk. [+0 or +1 Outsider]"
+}
