@@ -2,7 +2,7 @@
   "id": "treasurer",
   "name": "Treasurer",
   "edition": "custom",
-  "image": [
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"
  
  ],
   "team": "townsfolk",
