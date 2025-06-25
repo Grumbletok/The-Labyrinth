@@ -1,0 +1,12 @@
+{
+  "id": "stalker",
+  "name": "Stalker",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"],
+  "team": "Outsider",
+  "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
+  "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
+  "reminders": ["Stalked"], 
+  "setup": true,
+  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +3 Stalkers]"
+}
