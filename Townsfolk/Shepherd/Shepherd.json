@@ -1,0 +1,9 @@
+{
+  "id": "shepherd",
+  "name": "Shepherd",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image_evil.png?raw=true"],
+  "team": "townsfolk",
+  "setup": false,
+  "ability": "Each day you may visit the Storyteller and choose a past Night Phase; learn one thing that happened during that night phase."
+}
