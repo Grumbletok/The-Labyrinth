@@ -1,0 +1,11 @@
+{
+  "id": "linguamori",
+  "name": "Linguamori",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image_good.png?raw=true"],
+  "team": "demon", 
+  "otherNightReminder": "Wake up the Linguamori and have them choose a player. Put the Dead reminder token on that player.",
+  "reminders": ["Dead", "Ghost"], 
+  "setup": false,
+  "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if dead evils voted."
+}
