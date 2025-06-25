@@ -1,0 +1,10 @@
+{
+  "id": "stargazer",
+  "edition": "custom",
+  "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or singla a no and put them back to sleep.",
+  "setup": true,
+  "name": "Stargazer",
+  "team": "townsfolk",
+  "ability": "You start knowing one not-in-play Outsider, or if there are none. [-1 Outsider]",
+  "flavor": "Despite the curfew, they found the night sky is irresistible."
+}
