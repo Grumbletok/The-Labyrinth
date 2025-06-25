@@ -1,0 +1,12 @@
+{
+  "id": "quack",
+  "name": "Quack",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image_evil.png?raw=true"],
+  "team": "Outsider",
+  "firstNightReminder": "Wake up the Quack and have them choose clockwise or counter-clockwise. Put the Drunk reminder token on the closest good player seated in the chosen direction.",
+  "otherNightReminder": "If alive, move the Drunk reminder token to the next good player seated in the chosen direction.",
+  "reminders": ["Drunk", "Clockwise", "Counter-Clockwise"],
+  "setup": false,
+  "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction."
+}
