@@ -1,0 +1,13 @@
+{
+  "id": "treasurer",
+  "name": "Treasurer",
+  "edition": "custom",
+  "image": [
+ 
+ ],
+  "team": "townsfolk",
+  "firstNightReminder": "Show the Treasurer 2 Minion tokens, one which is in play and one which is not, or signal a no, then put them back to sleep.", 
+  "setup": false,
+  "ability": "You start the game knowing two Minions; one that is in play and one that is not.(Or that zero are in play)",
+  "flavor": "You don’t have to be an alchemist to turn ink into gold."
+}
