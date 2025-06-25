@@ -1,0 +1,11 @@
+{
+  "id": "chronicler",
+  "name": "Chronicler",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image_evil.png?raw=true"],
+  "team": "townsfolk",
+  "otherNightReminder": "Wake up the Chronicler and indicate either 1, 2, 1&2 or 3, depending on which corresponds to the latest executee",
+  "setup": false,
+  "ability": "Each night* you learn the number(s) that corresponded to the latest executee; 1) Drunk/Poisoned 2) Outsider 3) Neither."
+
+}
