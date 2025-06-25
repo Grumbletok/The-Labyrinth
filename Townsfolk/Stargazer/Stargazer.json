@@ -1,7 +1,8 @@
 {
   "id": "stargazer",
   "edition": "custom",
-  "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or singla a no and put them back to sleep.",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"]
+  "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or single a no and put them back to sleep.",
   "setup": true,
   "name": "Stargazer",
   "team": "townsfolk",
