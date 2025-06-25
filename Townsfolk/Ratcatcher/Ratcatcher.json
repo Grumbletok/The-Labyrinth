@@ -1,0 +1,10 @@
+{
+  "id": "ratcatcher",
+  "name": "Ratcatcher",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image_evil.png?raw=true"],
+  "team": "Townsfolk",
+  "reminders": ["Drunk"],
+  "setup": true,
+  "ability": "Outsiders that you nominate are drunk until dawn. Executed Outsiders learn who you are. [+1 Outsider]"
+}
