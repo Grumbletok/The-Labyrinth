@@ -1,0 +1,10 @@
+{
+  "id": "herald",
+  "name": "Herald",
+  "edition": "custom",
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image_evil.png?raw=true"],
+  "team": "townsfolk",
+  "reminders": ["Announced"], 
+  "setup": false,
+  "ability": "Each day*, you may visit the storyteller to learn a true statement about the player you nominated yesterday."
+}
