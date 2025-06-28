@@ -5,10 +5,10 @@
   "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image_evil.png?raw=true"],
   "team": "Townsfolk",
   "firstNight": 0,
-  "firstNightReminder": "Wake up the demon, show them the Jeweler token and have them choose a player. If the Jeweler is chosen, put the Poisoned reminder token on them.",
+  "firstNightReminder": "Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
   "otherNight": 0,
-  "otherNightReminder": "On the 3rd night, wake up the Jewler and show them a set of character tokens identical to the ones you showed the demon during the Demon Info step on the first night.",
-  "reminders": ["Poisoned"], 
+  "otherNightReminder": "If they don't have a Used reminder token on them, Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
+  "reminders": ["Used"], 
   "setup": false,
-  "ability": "Your first 3 nights, the demon chooses a player; if chosen, you are poisoned. On your third night you learn the Demon Bluffs."
+  "ability": "Once per game at night you may choose to learn 2 players which have at least 1 living, evil player seated between them."
 }
