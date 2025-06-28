@@ -1,0 +1,14 @@
+{
+  "id": "tombprospector",
+  "name": "Tomb Prospector",
+  "edition": "Custom",
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true"
+  ],
+  "team": "Traveller",
+  "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
+  "setup": false,
+  "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player.",
+}
