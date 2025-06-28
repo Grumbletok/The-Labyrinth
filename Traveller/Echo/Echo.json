@@ -1,0 +1,13 @@
+{
+  "id": "echo",
+  "name": "Echo",
+  "edition": "custom",
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_evil.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_good.png?raw=true"
+  ],
+  "team": "Traveller",
+  "setup": false,
+  "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection."
+}
