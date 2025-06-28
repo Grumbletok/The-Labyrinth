@@ -1,0 +1,15 @@
+{
+  "id": "dealbreaker",
+  "name": "Dealbreaker", 
+  "edition": "custom",
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true"
+  ],
+  "team": "Traveller",
+  "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
+  "otherNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
+  "setup": false,
+  "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play."
+}
