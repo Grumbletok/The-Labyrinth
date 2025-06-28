@@ -94,9 +94,9 @@
   "edition": "custom",
   "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"],
   "team": "townsfolk",
-  "firstNightReminder": "Put the Neighbor reminder tokens on the players neighboring the Rascal. Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal."
+  "firstNightReminder": "Put the Neighbor reminder tokens on the players neighboring the Rascal. Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
   "otherNightReminder": "Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
-  "reminders": ["Neighbor"]
+  "reminders": ["Neighbor"],
   "setup": false,
   "ability": "Each night, you learn the character type of a neighbor, then you consider your neighbors to be one step further."
 },
@@ -133,7 +133,7 @@
   {
   "id": "stargazer",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"]
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"],
   "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or single a no and put them back to sleep.",
   "setup": true,
   "name": "Stargazer",
@@ -145,9 +145,7 @@
   "id": "treasurer",
   "name": "Treasurer",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"
- 
- ],
+  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"],
   "team": "townsfolk",
   "firstNightReminder": "Show the Treasurer 2 Minion tokens, one which is in play and one which is not, or signal a no, then put them back to sleep.", 
   "setup": false,
@@ -325,7 +323,7 @@
   "team": "Traveller",
   "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
   "setup": false,
-  "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary.",
+  "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
 },
   {
   "id": "scryer",
@@ -354,7 +352,7 @@
   "team": "Traveller",
   "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
   "setup": false,
-  "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player.",
+  "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player."
 }
   
   ]
