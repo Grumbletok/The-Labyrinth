@@ -3,7 +3,7 @@
   "name": "Jeweler",
   "edition": "custom",
   "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image_evil.png?raw=true"],
-  "team": "Townsfolk",
+  "team": "townsfolk",
   "firstNight": 0,
   "firstNightReminder": "Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
   "otherNight": 0,
