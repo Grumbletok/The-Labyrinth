@@ -4,10 +4,10 @@
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
   "setup": false,
   "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary.",
