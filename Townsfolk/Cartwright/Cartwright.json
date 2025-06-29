@@ -2,7 +2,10 @@
   "id": "cartwright",
   "name": "Cartwright",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"
+  ],
   "team": "townsfolk",
   "firstNight": 0,
   "firstNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",

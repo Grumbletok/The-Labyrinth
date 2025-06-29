@@ -2,10 +2,17 @@
   "id": "poet",
   "name": "Poet",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"
+  ],
   "team": "townsfolk",
-  "firstNightReminder": "Have the Poet pick 3 other players, then put them back to sleep.", 
-  "reminders": ["Poetry 1", "Poetry 2", "Poetry 3"],
+  "firstNightReminder": "Have the Poet pick 3 other players, then put them back to sleep.",
+  "reminders": [
+    "Poetry 1",
+    "Poetry 2",
+    "Poetry 3"
+  ],
   "setup": false,
-  "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players." 
+  "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players."
 }

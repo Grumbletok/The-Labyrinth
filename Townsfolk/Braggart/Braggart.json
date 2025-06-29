@@ -2,11 +2,14 @@
   "id": "braggart",
   "name": "Braggart",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
+  ],
   "team": "townsfolk",
-  "reminders": ["Used"],
-  "remindersGlobal":
+  "reminders": [
+    "Used"
+  ],
   "setup": false,
   "ability": "Once per game, during the day, publicly choose a player: If they are a Minion and more than 4 players live, you are both executed."
-    
 }

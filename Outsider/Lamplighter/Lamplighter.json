@@ -2,10 +2,15 @@
   "id": "lamplighter",
   "name": "Lamplighter",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image_evil.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image_evil.png?raw=true"
+  ],
   "team": "outsider",
   "otherNightReminder": "If the Lamplighter nominated today, wake up each evil player in any order and have them choose a player; they learn the player they chose's character.",
-  "reminders": ["Noisy"],
+  "reminders": [
+    "Noisy"
+  ],
   "setup": false,
   "ability": "Each night*, if you nominated today, each evil player chooses a player; they learn the chosen players’ character."
 }

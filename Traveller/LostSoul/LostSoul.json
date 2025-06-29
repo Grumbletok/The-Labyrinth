@@ -10,5 +10,5 @@
   "team": "traveller",
   "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
   "setup": false,
-  "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary.",
+  "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
 }

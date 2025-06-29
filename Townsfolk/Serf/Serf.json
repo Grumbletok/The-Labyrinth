@@ -2,7 +2,10 @@
   "id": "serf",
   "name": "Serf",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
+  ],
   "team": "townsfolk",
   "firstNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
   "otherNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",

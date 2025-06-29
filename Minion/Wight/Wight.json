@@ -2,11 +2,18 @@
   "id": "wight",
   "name": "Wight",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"
+  ],
   "team": "minion",
   "firstNightReminder": "Wake up the Wight and have them choose a player. Put the Haunted reminder token on the chosen player.",
   "otherNightReminder": "If the player with the Haunted reminder token on them was executed yesterday and; if the Wight is alive, put the Dead reminder token on a living player or; if the Wight is dead, put the Returned reminder token on the Wight.",
-  "reminders": ["Haunted", "Dead", "Returned"],
+  "reminders": [
+    "Haunted",
+    "Dead",
+    "Returned"
+  ],
   "setup": false,
   "ability": "On your first night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead."
 }

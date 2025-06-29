@@ -2,11 +2,18 @@
   "id": "carnificina",
   "name": "Carnificina",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image_good.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image_good.png?raw=true"
+  ],
   "team": "demon",
   "firstNightReminder": "Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
   "otherNightReminder": "If all players with Prey tokens on them live, put a Dead token on 2 of them. If at least 1 of the players with a Prey token on them is dead, instead put a Dead token on any living player. Then remove all Prey tokens. Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
-  "reminders": ["Prey", "Aware", "Dead"],
+  "reminders": [
+    "Prey",
+    "Aware",
+    "Dead"
+  ],
   "setup": false,
   "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies."
 }

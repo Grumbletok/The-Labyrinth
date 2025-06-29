@@ -10,5 +10,5 @@
   "team": "traveller",
   "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
   "setup": false,
-  "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player.",
+  "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player."
 }

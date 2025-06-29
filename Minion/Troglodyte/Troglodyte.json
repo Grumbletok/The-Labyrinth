@@ -2,9 +2,16 @@
   "id": "troglodyte",
   "name": "Troglodyte",
   "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image_good.png?raw=true"],
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image_good.png?raw=true"
+  ],
   "team": "minion",
-  "reminders": ["Trog 1", "Trog 2", "Trog 3"],
+  "reminders": [
+    "Trog 1",
+    "Trog 2",
+    "Trog 3"
+  ],
   "setup": false,
   "ability": "You start knowing one not-in-play Outsider; you have their ability. You might register as an Outsider."
 }
