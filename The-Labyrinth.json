@@ -289,10 +289,10 @@
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
   "otherNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
   "setup": false,
@@ -304,10 +304,10 @@
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "setup": false,
   "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection."
 },
@@ -317,10 +317,10 @@
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
   "setup": false,
   "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
@@ -331,10 +331,10 @@
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "firstNight": 22,
   "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
   "setup": false,
@@ -346,10 +346,10 @@
   "edition": "Custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
   "setup": false,
   "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player."
