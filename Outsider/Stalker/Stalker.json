@@ -3,7 +3,7 @@
   "name": "Stalker",
   "edition": "custom",
   "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"],
-  "team": "Outsider",
+  "team": "outsider",
   "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
   "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
   "reminders": ["Stalked"], 
