@@ -3,356 +3,520 @@
     "id": "_meta",
     "name": "The Labyrinth",
     "author": "Grumbletok",
-  "firstNight": ["DUSK","MINIONINFO", "DEMONINFO", "Maggot", "Stalker", "Carnificina", "Wight", "Quack", "Treasurer", "Dealbreaker", "Poet", "Palace Guard", "Stargazer", "Rascal", "Jeweler", "Cartwright", "Serf", "Scryer", "DAWN"], 
-    "otherNight": ["DUSK", "Chindi", "Stalker", "Lamplighter", "Quack", "Carnificina", "Peregrimor", "Linguamori", "Miasmagus", "Wight", "Tomb Prospector", "Dealbreaker", "Palace Guard", "Ratcatcher", "Rascal", "Jeweler", "Cartwright", "Serf", "Chronicler", "Lost Soul", "DAWN"]
+    "firstNight": [
+      "DUSK",
+      "MINIONINFO",
+      "DEMONINFO",
+      "Maggot",
+      "Stalker",
+      "Carnificina",
+      "Wight",
+      "Quack",
+      "Treasurer",
+      "Dealbreaker",
+      "Poet",
+      "Palace Guard",
+      "Stargazer",
+      "Rascal",
+      "Jeweler",
+      "Cartwright",
+      "Serf",
+      "Scryer",
+      "DAWN"
+    ],
+    "otherNight": [
+      "DUSK",
+      "Chindi",
+      "Stalker",
+      "Lamplighter",
+      "Quack",
+      "Carnificina",
+      "Peregrimor",
+      "Linguamori",
+      "Miasmagus",
+      "Wight",
+      "Tomb Prospector",
+      "Dealbreaker",
+      "Palace Guard",
+      "Ratcatcher",
+      "Rascal",
+      "Jeweler",
+      "Cartwright",
+      "Serf",
+      "Chronicler",
+      "Lost Soul",
+      "DAWN"
+    ]
   },
   {
-  "id": "braggart",
-  "name": "Braggart",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "reminders": ["Used"],
-  "setup": false,
-  "ability": "Once per game, during the day, publicly choose a player: If they are a Minion and more than 4 players live, you are both executed."
-    
-},
+    "id": "braggart",
+    "name": "Braggart",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "reminders": [
+      "Used"
+    ],
+    "setup": false,
+    "ability": "Once per game, during the day, publicly choose a player: If they are a Minion and more than 4 players live, you are both executed."
+  },
   {
-  "id": "cartwright",
-  "name": "Cartwright",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNight": 0,
-  "firstNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
-  "otherNight": 0,
-  "otherNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
-  "setup": false,
-  "ability": "Each night, choose an alive player (not yourself); you learn if there are any drunk or poisoned players between you on a shortest route."
-},
+    "id": "cartwright",
+    "name": "Cartwright",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
+    "otherNight": 0,
+    "otherNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
+    "setup": false,
+    "ability": "Each night, choose an alive player (not yourself); you learn if there are any drunk or poisoned players between you on a shortest route."
+  },
   {
-  "id": "chronicler",
-  "name": "Chronicler",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "otherNightReminder": "Wake up the Chronicler and indicate either 1, 2, 1&2 or 3, depending on which corresponds to the latest executee",
-  "setup": false,
-  "ability": "Each night* you learn the number(s) that corresponded to the latest executee; 1) Drunk/Poisoned 2) Outsider 3) Neither."
-
-},
+    "id": "chronicler",
+    "name": "Chronicler",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "otherNightReminder": "Wake up the Chronicler and indicate either 1, 2, 1&2 or 3, depending on which corresponds to the latest executee",
+    "setup": false,
+    "ability": "Each night* you learn the number(s) that corresponded to the latest executee; 1) Drunk/Poisoned 2) Outsider 3) Neither."
+  },
   {
-  "id": "herald",
-  "name": "Herald",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "reminders": ["Announced"], 
-  "setup": false,
-  "ability": "Each day*, you may visit the storyteller to learn a true statement about the player you nominated yesterday."
-},
+    "id": "herald",
+    "name": "Herald",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "reminders": [
+      "Announced"
+    ],
+    "setup": false,
+    "ability": "Each day*, you may visit the storyteller to learn a true statement about the player you nominated yesterday."
+  },
   {
-  "id": "jeweler",
-  "name": "Jeweler",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNight": 0,
-  "firstNightReminder": "Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
-  "otherNight": 0,
-  "otherNightReminder": "If they don't have a Used reminder token on them, Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
-  "reminders": ["Used"], 
-  "setup": false,
-  "ability": "Once per game at night you may choose to learn 2 players which have at least 1 living, evil player seated between them."
-},
+    "id": "jeweler",
+    "name": "Jeweler",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
+    "otherNight": 0,
+    "otherNightReminder": "If they don't have a Used reminder token on them, Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
+    "reminders": [
+      "Used"
+    ],
+    "setup": false,
+    "ability": "Once per game at night you may choose to learn 2 players which have at least 1 living, evil player seated between them."
+  },
   {
-  "id": "palaceguard",
-  "name": "Palace Guard",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/PalaceGuard/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/PalaceGuard/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNightReminder": "Wake up the Palace Guard and have them choose either clockwise or counter-clockwise. Then show them a token of a character seated closer to them in that direction than the other.",
-  "otherNightReminder": "Wake up the Palace Guard and show them a character token of a character seated further in the initially chosen direction than the character shown last night.",
-  "reminders": ["Guarded", "Clockwise", "Counter-Clockwise"],
-  "setup": false,
-  "ability": "You start by choosing a direction, even if drunk or poisoned. Each night, learn a character of a player further in that direction than last night's character."
-},
+    "id": "palaceguard",
+    "name": "Palace Guard",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/PalaceGuard/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/PalaceGuard/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNightReminder": "Wake up the Palace Guard and have them choose either clockwise or counter-clockwise. Then show them a token of a character seated closer to them in that direction than the other.",
+    "otherNightReminder": "Wake up the Palace Guard and show them a character token of a character seated further in the initially chosen direction than the character shown last night.",
+    "reminders": [
+      "Guarded",
+      "Clockwise",
+      "Counter-Clockwise"
+    ],
+    "setup": false,
+    "ability": "You start by choosing a direction, even if drunk or poisoned. Each night, learn a character of a player further in that direction than last night's character."
+  },
   {
-  "id": "poet",
-  "name": "Poet",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNightReminder": "Have the Poet pick 3 other players, then put them back to sleep.", 
-  "reminders": ["Poetry 1", "Poetry 2", "Poetry 3"],
-  "setup": false,
-  "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players." 
-},
+    "id": "poet",
+    "name": "Poet",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNightReminder": "Have the Poet pick 3 other players, then put them back to sleep.",
+    "reminders": [
+      "Poetry 1",
+      "Poetry 2",
+      "Poetry 3"
+    ],
+    "setup": false,
+    "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players."
+  },
   {
-  "id": "rascal",
-  "name": "Rascal",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNightReminder": "Put the Neighbor reminder tokens on the players neighboring the Rascal. Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
+    "id": "rascal",
+    "name": "Rascal",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNightReminder": "Put the Neighbor reminder tokens on the players neighboring the Rascal. Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
     "otherNightReminder": "Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
-  "reminders": ["Neighbor"],
-  "setup": false,
-  "ability": "Each night, you learn the character type of a neighbor, then you consider your neighbors to be one step further."
-},
+    "reminders": [
+      "Neighbor"
+    ],
+    "setup": false,
+    "ability": "Each night, you learn the character type of a neighbor, then you consider your neighbors to be one step further."
+  },
   {
-  "id": "ratcatcher",
-  "name": "Ratcatcher",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "reminders": ["Drunk"],
-  "setup": true,
-  "ability": "Outsiders that you nominate are drunk until dawn. Executed Outsiders learn who you are. [+1 Outsider]"
-},
+    "id": "ratcatcher",
+    "name": "Ratcatcher",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "reminders": [
+      "Drunk"
+    ],
+    "setup": true,
+    "ability": "Outsiders that you nominate are drunk until dawn. Executed Outsiders learn who you are. [+1 Outsider]"
+  },
   {
-  "id": "serf",
-  "name": "Serf",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
-  "otherNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
-  "setup": true,
-  "ability": "Each night, choose another player; you learn how many steps from them to the closest Outsider. [At least 1 Outsider]"
-},
+    "id": "serf",
+    "name": "Serf",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
+    "otherNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
+    "setup": true,
+    "ability": "Each night, choose another player; you learn how many steps from them to the closest Outsider. [At least 1 Outsider]"
+  },
   {
-  "id": "shepherd",
-  "name": "Shepherd",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "setup": false,
-  "ability": "Each day you may visit the Storyteller and choose a past Night Phase; learn one thing that happened during that night phase."
-},
+    "id": "shepherd",
+    "name": "Shepherd",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "setup": false,
+    "ability": "Each day you may visit the Storyteller and choose a past Night Phase; learn one thing that happened during that night phase."
+  },
   {
-  "id": "stargazer",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"],
-  "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or single a no and put them back to sleep.",
-  "setup": true,
-  "name": "Stargazer",
-  "team": "townsfolk",
-  "ability": "You start knowing one not-in-play Outsider, or if there are none. [-1 Outsider]",
-  "flavor": "Despite the curfew, they found the night sky is irresistible."
-},
+    "id": "stargazer",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"
+    ],
+    "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or single a no and put them back to sleep.",
+    "setup": true,
+    "name": "Stargazer",
+    "team": "townsfolk",
+    "ability": "You start knowing one not-in-play Outsider, or if there are none. [-1 Outsider]",
+    "flavor": "Despite the curfew, they found the night sky is irresistible."
+  },
   {
-  "id": "treasurer",
-  "name": "Treasurer",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"],
-  "team": "townsfolk",
-  "firstNightReminder": "Show the Treasurer 2 Minion tokens, one which is in play and one which is not, or signal a no, then put them back to sleep.", 
-  "setup": false,
-  "ability": "You start the game knowing two Minions; one that is in play and one that is not.(Or that zero are in play)",
-  "flavor": "You don’t have to be an alchemist to turn ink into gold."
-},
+    "id": "treasurer",
+    "name": "Treasurer",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"
+    ],
+    "team": "townsfolk",
+    "firstNightReminder": "Show the Treasurer 2 Minion tokens, one which is in play and one which is not, or signal a no, then put them back to sleep.",
+    "setup": false,
+    "ability": "You start the game knowing two Minions; one that is in play and one that is not.(Or that zero are in play)",
+    "flavor": "You don’t have to be an alchemist to turn ink into gold."
+  },
   {
-  "id": "hellion",
-  "name": "Hellion",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"],
-  "team": "outsider",
-  "setup": false,
-  "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon."
-},
+    "id": "hellion",
+    "name": "Hellion",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"
+    ],
+    "team": "outsider",
+    "setup": false,
+    "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon."
+  },
   {
-  "id": "lamplighter",
-  "name": "Lamplighter",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image_evil.png?raw=true"],
-  "team": "outsider",
-  "otherNightReminder": "If the Lamplighter nominated today, wake up each evil player in any order and have them choose a player; they learn the player they chose's character.",
-  "reminders": ["Noisy"],
-  "setup": false,
-  "ability": "Each night*, if you nominated today, each evil player chooses a player; they learn the chosen players’ character."
-},
+    "id": "lamplighter",
+    "name": "Lamplighter",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image_evil.png?raw=true"
+    ],
+    "team": "outsider",
+    "otherNightReminder": "If the Lamplighter nominated today, wake up each evil player in any order and have them choose a player; they learn the player they chose's character.",
+    "reminders": [
+      "Noisy"
+    ],
+    "setup": false,
+    "ability": "Each night*, if you nominated today, each evil player chooses a player; they learn the chosen players’ character."
+  },
   {
-  "id": "quack",
-  "name": "Quack",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image_evil.png?raw=true"],
-  "team": "outsider",
-  "firstNightReminder": "Wake up the Quack and have them choose clockwise or counter-clockwise. Put the Drunk reminder token on the closest good player seated in the chosen direction.",
-  "otherNightReminder": "If alive, move the Drunk reminder token to the next good player seated in the chosen direction.",
-  "reminders": ["Drunk", "Clockwise", "Counter-Clockwise"],
-  "setup": false,
-  "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction."
-},
+    "id": "quack",
+    "name": "Quack",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image_evil.png?raw=true"
+    ],
+    "team": "outsider",
+    "firstNightReminder": "Wake up the Quack and have them choose clockwise or counter-clockwise. Put the Drunk reminder token on the closest good player seated in the chosen direction.",
+    "otherNightReminder": "If alive, move the Drunk reminder token to the next good player seated in the chosen direction.",
+    "reminders": [
+      "Drunk",
+      "Clockwise",
+      "Counter-Clockwise"
+    ],
+    "setup": false,
+    "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction."
+  },
   {
-  "id": "stalker",
-  "name": "Stalker",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"],
-  "team": "outsider",
-  "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
-  "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
-  "reminders": ["Stalked"], 
-  "setup": true,
-  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +1 Stalker]"
-},
+    "id": "stalker",
+    "name": "Stalker",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"
+    ],
+    "team": "outsider",
+    "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
+    "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
+    "reminders": [
+      "Stalked"
+    ],
+    "setup": true,
+    "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +1 Stalker]"
+  },
   {
-  "id": "chindi",
-  "name": "Chindi",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image_good.png?raw=true"],
-  "team": "minion",
-  "reminders": ["Enthralled"],
-  "setup": false,
-  "ability": "When you learn that you have died you may publicly choose 3 living players; 1 becomes Evil tonight."
-},
+    "id": "chindi",
+    "name": "Chindi",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image_good.png?raw=true"
+    ],
+    "team": "minion",
+    "reminders": [
+      "Enthralled"
+    ],
+    "setup": false,
+    "ability": "When you learn that you have died you may publicly choose 3 living players; 1 becomes Evil tonight."
+  },
   {
-  "id": "maggot",
-  "name": "Maggot",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"],
-  "team": "minion",
-  "reminders": ["Infested"],
-  "setup": true,
-  "ability": "On your first night, all Townsfolk characters are poisoned until Dusk. [+0 or +1 Outsider]"
-},
+    "id": "maggot",
+    "name": "Maggot",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"
+    ],
+    "team": "minion",
+    "reminders": [
+      "Infested"
+    ],
+    "setup": true,
+    "ability": "On your first night, all Townsfolk characters are poisoned until Dusk. [+0 or +1 Outsider]"
+  },
   {
-  "id": "troglodyte",
-  "name": "Troglodyte",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image_good.png?raw=true"],
-  "team": "minion",
-  "reminders": ["Trog 1", "Trog 2", "Trog 3"],
-  "setup": false,
-  "ability": "You start knowing one not-in-play Outsider; you have their ability. You might register as an Outsider."
-},
+    "id": "troglodyte",
+    "name": "Troglodyte",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image_good.png?raw=true"
+    ],
+    "team": "minion",
+    "reminders": [
+      "Trog 1",
+      "Trog 2",
+      "Trog 3"
+    ],
+    "setup": false,
+    "ability": "You start knowing one not-in-play Outsider; you have their ability. You might register as an Outsider."
+  },
   {
-  "id": "wight",
-  "name": "Wight",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"],
-  "team": "minion",
-  "firstNightReminder": "Wake up the Wight and have them choose a player. Put the Haunted reminder token on the chosen player.",
-  "otherNightReminder": "If the player with the Haunted reminder token on them was executed yesterday and; if the Wight is alive, put the Dead reminder token on a living player or; if the Wight is dead, put the Returned reminder token on the Wight.",
-  "reminders": ["Haunted", "Dead", "Returned"],
-  "setup": false,
-  "ability": "On your first night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead."
-},
+    "id": "wight",
+    "name": "Wight",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"
+    ],
+    "team": "minion",
+    "firstNightReminder": "Wake up the Wight and have them choose a player. Put the Haunted reminder token on the chosen player.",
+    "otherNightReminder": "If the player with the Haunted reminder token on them was executed yesterday and; if the Wight is alive, put the Dead reminder token on a living player or; if the Wight is dead, put the Returned reminder token on the Wight.",
+    "reminders": [
+      "Haunted",
+      "Dead",
+      "Returned"
+    ],
+    "setup": false,
+    "ability": "On your first night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead."
+  },
   {
-  "id": "carnificina",
-  "name": "Carnificina",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image_good.png?raw=true"],
-  "team": "demon",
-  "firstNightReminder": "Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
-  "otherNightReminder": "If all players with Prey tokens on them live, put a Dead token on 2 of them. If at least 1 of the players with a Prey token on them is dead, instead put a Dead token on any living player. Then remove all Prey tokens. Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
-  "reminders": ["Prey", "Aware", "Dead"],
-  "setup": false,
-  "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies."
-},
+    "id": "carnificina",
+    "name": "Carnificina",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image_good.png?raw=true"
+    ],
+    "team": "demon",
+    "firstNightReminder": "Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
+    "otherNightReminder": "If all players with Prey tokens on them live, put a Dead token on 2 of them. If at least 1 of the players with a Prey token on them is dead, instead put a Dead token on any living player. Then remove all Prey tokens. Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
+    "reminders": [
+      "Prey",
+      "Aware",
+      "Dead"
+    ],
+    "setup": false,
+    "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies."
+  },
   {
-  "id": "linguamori",
-  "name": "Linguamori",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image_good.png?raw=true"],
-  "team": "demon", 
-  "otherNightReminder": "Wake up the Linguamori and have them choose a player. Put the Dead reminder token on that player.",
-  "reminders": ["Dead", "Ghost"], 
-  "setup": false,
-  "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if dead evils voted."
-},
+    "id": "linguamori",
+    "name": "Linguamori",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image_good.png?raw=true"
+    ],
+    "team": "demon",
+    "otherNightReminder": "Wake up the Linguamori and have them choose a player. Put the Dead reminder token on that player.",
+    "reminders": [
+      "Dead",
+      "Ghost"
+    ],
+    "setup": false,
+    "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if dead evils voted."
+  },
   {
-  "id": "miasmagus",
-  "name": "Miasmagus",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image_good.png?raw=true"],
-  "team": "demon",
-  "otherNightReminder": "Wake up the Miasmagus and have them choose a player. Put the Dead reminder token on the chosen player. Then, if that player is an Outsider, put the Poisoned reminder token on a Townsfolk player",
-  "reminders": ["Dead", "Poisoned"],
-  "setup": true,
-  "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR +2 Stalkers]"
-},
+    "id": "miasmagus",
+    "name": "Miasmagus",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image_good.png?raw=true"
+    ],
+    "team": "demon",
+    "otherNightReminder": "Wake up the Miasmagus and have them choose a player. Put the Dead reminder token on the chosen player. Then, if that player is an Outsider, put the Poisoned reminder token on a Townsfolk player",
+    "reminders": [
+      "Dead",
+      "Poisoned"
+    ],
+    "setup": true,
+    "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR +2 Stalkers]"
+  },
   {
-  "id": "peregrimor",
-  "name": "Peregrimor",
-  "edition": "custom",
-  "image": ["https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image.png?raw=true", "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image_good.png?raw=true"],
-  "team": "demon",
-  "firstNightReminder": "Wake up the Peregrimor and show them each player that is an Outsider. Then wake up each evil Outsider in turn and show them the player that is the Peregrimor.",
-  "reminders": ["Dead"],
-  "setup": true,
-  "ability": "You know all Outsiders. Evil Outsiders learns who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders.]"
-},
-{
-  "id": "dealbreaker",
-  "name": "Dealbreaker", 
-  "edition": "custom",
-  "image": [
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true"
-  ],
-  "team": "traveller",
-  "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
-  "otherNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
-  "setup": false,
-  "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play."
-},
+    "id": "peregrimor",
+    "name": "Peregrimor",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image_good.png?raw=true"
+    ],
+    "team": "demon",
+    "firstNightReminder": "Wake up the Peregrimor and show them each player that is an Outsider. Then wake up each evil Outsider in turn and show them the player that is the Peregrimor.",
+    "reminders": [
+      "Dead"
+    ],
+    "setup": true,
+    "ability": "You know all Outsiders. Evil Outsiders learns who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders.]"
+  },
   {
-  "id": "echo",
-  "name": "Echo",
-  "edition": "custom",
-  "image": [
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_good.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_evil.png?raw=true"
-  ],
-  "team": "traveller",
-  "setup": false,
-  "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection."
-},
+    "id": "dealbreaker",
+    "name": "Dealbreaker",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true"
+    ],
+    "team": "traveller",
+    "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
+    "otherNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
+    "setup": false,
+    "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play."
+  },
   {
-  "id": "lostsoul",
-  "name": "Last Soul",
-  "edition": "custom",
-  "image": [
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true"
-  ],
-  "team": "traveller",
-  "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
-  "setup": false,
-  "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
-},
+    "id": "echo",
+    "name": "Echo",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_evil.png?raw=true"
+    ],
+    "team": "traveller",
+    "setup": false,
+    "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection."
+  },
   {
-  "id": "scryer",
-  "name": "Scryer",
-  "edition": "custom",
-  "image": [
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
-  ],
-  "team": "traveller",
-  "firstNight": 22,
-  "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
-  "setup": false,
-  "ability": "On your first night you see a quarter of the Grimoire."
-},
-{
-  "id": "tombprospector",
-  "name": "Tomb Prospector",
-  "edition": "Custom",
-  "image": [
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true"
-  ],
-  "team": "traveller",
-  "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
-  "setup": false,
-  "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player."
-}
-  
-  ]
+    "id": "lostsoul",
+    "name": "Last Soul",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true"
+    ],
+    "team": "traveller",
+    "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
+    "setup": false,
+    "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
+  },
+  {
+    "id": "scryer",
+    "name": "Scryer",
+    "edition": "custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
+    ],
+    "team": "traveller",
+    "firstNight": 22,
+    "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
+    "setup": false,
+    "ability": "On your first night you see a quarter of the Grimoire."
+  },
+  {
+    "id": "tombprospector",
+    "name": "Tomb Prospector",
+    "edition": "Custom",
+    "image": [
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true"
+    ],
+    "team": "traveller",
+    "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
+    "setup": false,
+    "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player."
+  }
+]
