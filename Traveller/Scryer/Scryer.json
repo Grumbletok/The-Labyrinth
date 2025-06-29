@@ -4,10 +4,10 @@
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
   ],
-  "team": "Traveller",
+  "team": "traveller",
   "firstNight": 22,
   "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
   "setup": false,
