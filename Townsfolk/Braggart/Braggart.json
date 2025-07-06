@@ -7,9 +7,7 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
   ],
   "team": "townsfolk",
-  "reminders": [
-    "Used"
-  ],
+  "reminders": ["Poisoned","Drunk"],
   "setup": false,
-  "ability": "Once per game, during the day, publicly choose a player: If they are a Minion and more than 4 players live, you are both executed."
+  "ability": "When executed, if no other Townsfolk live, good wins. The first time the Demon chooses you, they learn this and may choose to become drunk until dawn, and you are poisoned."
 }
