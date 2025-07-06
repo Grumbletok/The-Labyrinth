@@ -61,7 +61,7 @@
       "Used"
     ],
     "setup": false,
-    "ability": "Once per game, during the day, publicly choose a player: If they are a Minion and more than 4 players live, you are both executed."
+    "ability": "When executed, if there are no other living Townsfolk, Good wins. The first time the Demon chooses you, they learn this and may choose to become drunk until dawn, and you are poisoned."
   },
   {
     "id": "cartwright",
