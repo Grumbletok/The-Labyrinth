@@ -335,9 +335,7 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"
     ],
     "team": "minion",
-    "reminders": [
-      "Infested"
-    ],
+    "reminders": ["Itchy", "Poisoned"],
     "setup": true,
     "ability": "On your first night, choose a player (not yourself); a Townsfolk player is Poisoned as long as that player live. The chosen player and up to 2 other players learns that they were picked."
   },
