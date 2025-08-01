@@ -201,8 +201,8 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
-    "firstNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
-    "otherNightReminder": "Wake up the Serf and have them choose another player, then indicate the number of steps from the choosen player to the Outsider seated closest to them.",
+    "firstNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
+    "otherNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
     "setup": true,
     "ability": "Each night you learn a non-Townsfolk, non-Traveler player.[+1 Outsider]"
   },
