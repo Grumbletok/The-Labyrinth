@@ -135,7 +135,7 @@
     "firstNightReminder": "Wake up the Palace Guard and have them choose either clockwise or counter-clockwise. Then show them a token of a character seated closer to them in that direction than the other.",
     "otherNightReminder": "Wake up the Palace Guard and show them a character token of a character seated further in the initially chosen direction than the character shown last night.",
     "reminders": [
-      "Guarded",
+      "🀥",
       "↻",
       "↺"
     ],
