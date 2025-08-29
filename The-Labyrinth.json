@@ -155,9 +155,9 @@
     "team": "townsfolk",
     "firstNightReminder": "Have the Poet pick 3 other players, then put them back to sleep.",
     "reminders": [
-      "Poetry 1",
-      "Poetry 2",
-      "Poetry 3"
+      "✒️",
+      "✒️",
+      "✒️"
     ],
     "setup": false,
     "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players."
