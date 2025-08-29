@@ -136,7 +136,7 @@
     "otherNightReminder": "Wake up the Palace Guard and show them a character token of a character seated further in the initially chosen direction than the character shown last night.",
     "reminders": [
       "Guarded",
-      "↻",
+      "⮜",
       "↺"
     ],
     "setup": false,
