@@ -137,7 +137,9 @@
     "reminders": [
       "Guarded",
       "⮜",
-      "↺"
+      "⮝",
+      "⮞",
+      "⮟"
     ],
     "setup": false,
     "ability": "You start by choosing a direction, even if drunk or poisoned. Each night, learn a character of a player further in that direction than last night's character."
