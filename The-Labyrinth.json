@@ -58,7 +58,8 @@
     ],
     "team": "townsfolk",
     "setup": false,
-    "ability": "When you are executed, if there are no other living Townsfolk, good wins."
+    "ability": "When you are executed, if there are no other living Townsfolk, good wins.",
+        "flavor": "As a specimen, yes, I’m intimidating!"
   },
   {
     "id": "cartwright",
@@ -74,7 +75,8 @@
     "otherNight": 0,
     "otherNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
     "setup": false,
-    "ability": "Each night, choose an alive player (not yourself); you learn if there are any drunk or poisoned players between you on a shortest route."
+    "ability": "Each night, choose an alive player (not yourself); you learn if there are any drunk or poisoned players between you on a shortest route.",
+    "flavor": "At the site of a broken cart, everyone’s an engineer."
   },
   {
     "id": "chronicler",
@@ -87,7 +89,8 @@
     "team": "townsfolk",
     "otherNightReminder": "Wake up the Chronicler and indicate either 1, 2, 1&2 or 3, depending on which corresponds to the latest executee",
     "setup": false,
-    "ability": "Each night* you learn the number(s) that corresponded to the latest executee; 1) Drunk/Poisoned 2) Outsider 3) Neither."
+    "ability": "Each night* you learn the number(s) that corresponded to the latest executee; 1) Drunk/Poisoned 2) Outsider 3) Neither.",
+    "flavor": "The best way to preserve history is with dramatic flair."
   },
   {
     "id": "herald",
@@ -102,7 +105,8 @@
       "Announced"
     ],
     "setup": false,
-    "ability": "Each day*, you may visit the storyteller to learn a true statement about the player you nominated yesterday."
+    "ability": "Each day*, you may visit the storyteller to learn a true statement about the player you nominated yesterday.",
+    "flavor": "Lord of the common folk, bringer of peace, grand speaker for the commune of spirits, conqueror of Leng & Hyboria, champion of the eternal duel…"
   },
   {
     "id": "jeweler",
@@ -121,7 +125,8 @@
       "Used"
     ],
     "setup": false,
-    "ability": "Once per game at night you may choose to learn 2 players which have at least 1 living, evil player seated between them."
+    "ability": "Once per game at night you may choose to learn 2 players which have at least 1 living, evil player seated between them.",
+    "flavor": "Cut short of perfection."
   },
   {
     "id": "palaceguard",
@@ -142,7 +147,8 @@
       "⮟"
     ],
     "setup": false,
-    "ability": "You start by choosing a direction, even if drunk or poisoned. Each night, learn a character of a player further in that direction than last night's character."
+    "ability": "You start by choosing a direction, even if drunk or poisoned. Each night, learn a character of a player further in that direction than last night's character.",
+    "flavor": "It doesn’t matter how well armed you are if you’re not also prepared to leg it."
   },
   {
     "id": "poet",
@@ -160,7 +166,8 @@
       "✒️"
     ],
     "setup": false,
-    "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players."
+    "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players.",
+    "flavor": "Surely it hurts when buds burst into bloom, why else would spring hesitate?"
   },
   {
     "id": "rascal",
@@ -177,7 +184,8 @@
       "Neighbor"
     ],
     "setup": false,
-    "ability": "Each night, you learn the character type of a neighbor, then you consider your neighbors to be one step further."
+    "ability": "Each night, you learn the character type of a neighbor, then you consider your neighbors to be one step further.",
+    "flavor": "I swear, if I get my hands on that little-"
   },
   {
     "id": "ratcatcher",
@@ -192,7 +200,8 @@
       "Drunk"
     ],
     "setup": true,
-    "ability": "Outsiders that you nominate are drunk until dawn. Executed Outsiders learn who you are. [+1 Outsider]"
+    "ability": "Outsiders that you nominate are drunk until dawn. Executed Outsiders learn who you are. [+1 Outsider]",
+    "flavor": "Hello Mister Rat! Have you met my friend, Mister Key?"
   },
   {
     "id": "serf",
@@ -206,7 +215,8 @@
     "firstNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
     "otherNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
     "setup": true,
-    "ability": "Each night you learn a non-Townsfolk, non-Traveler player.[+1 Outsider]"
+    "ability": "Each night you learn a non-Townsfolk, non-Traveler player.[+1 Outsider]",
+    "flavor": "Till from dawn till dusk."
   },
   {
     "id": "shepherd",
@@ -218,7 +228,8 @@
     ],
     "team": "townsfolk",
     "setup": false,
-    "ability": "Each day you may visit the Storyteller and choose a past Night Phase; learn one thing that happened during that night phase."
+    "ability": "Each day you may visit the Storyteller and choose a past Night Phase; learn one thing that happened during that night phase.",
+    "flavor": "Freedom, fresh air and a whole herd of friends! I dare you to name someone luckier than me!"
   },
   {
     "id": "stargazer",
@@ -227,7 +238,7 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true",
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"
     ],
-    "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or single a no and put them back to sleep.",
+    "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or signal a no and put them back to sleep.",
     "setup": true,
     "name": "Stargazer",
     "team": "townsfolk",
@@ -258,7 +269,8 @@
     ],
     "team": "outsider",
     "setup": false,
-    "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon."
+    "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon.",
+    "flavor": "A striking addition to any social occasion."
   },
   {
     "id": "lamplighter",
@@ -274,7 +286,8 @@
       "Noisy"
     ],
     "setup": false,
-    "ability": "Each night*, if you nominated today, each evil player chooses a player; they learn the chosen players’ character."
+    "ability": "Each night*, if you nominated today, each evil player chooses a player; they learn the chosen players’ character.",
+    "flavor": "Someone must be first to wait , alone in the dark."
   },
   {
     "id": "quack",
@@ -289,11 +302,14 @@
     "otherNightReminder": "If alive, move the Drunk reminder token to the next good player seated in the chosen direction.",
     "reminders": [
       "Drunk",
-      "Clockwise",
-      "Counter-Clockwise"
+      "⮜",
+      "⮝",
+      "⮞",
+      "⮟"
     ],
     "setup": false,
-    "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction."
+    "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction.",
+    "flavor": "Refund? Never heard of him."
   },
   {
     "id": "stalker",
@@ -310,7 +326,8 @@
       "Stalked"
     ],
     "setup": true,
-    "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +1 Stalker]"
+    "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +1 Stalker]",
+    "flavor": "It’s just paranoia."
   },
   {
     "id": "chindi",
@@ -325,7 +342,8 @@
       "Enthralled"
     ],
     "setup": false,
-    "ability": "When you learn that you have died you may publicly choose 3 living players; 1 becomes Evil tonight."
+    "ability": "When you learn that you have died you may publicly choose 3 living players; 1 becomes Evil tonight.",
+    "flavor": "Please, who will write my eulogy? Who will cry and whisper my name, as my ashes spread over the meadow? Someone, remember me."
   },
   {
     "id": "maggot",
@@ -338,7 +356,8 @@
     "team": "minion",
     "reminders": ["Itchy", "Itchy", "Infested", "Poisoned"],
     "setup": true,
-    "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player live. The chosen player and up to 2 other players learns that they were picked."
+    "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player live. The chosen player and up to 2 other players learns that they were picked.",
+    "flavor": "They were given provisions, sure. But there were more mouths to feed than calculated."
   },
   {
     "id": "troglodyte",
@@ -355,7 +374,8 @@
       "Trog 3"
     ],
     "setup": false,
-    "ability": "You start knowing one not-in-play Outsider; you have their ability. You might register as an Outsider."
+    "ability": "You start knowing one not-in-play Outsider; you have their ability. You might register as an Outsider.",
+    "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
   },
   {
     "id": "wight",
@@ -374,7 +394,8 @@
       "Returned"
     ],
     "setup": false,
-    "ability": "On your first night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead."
+    "ability": "On your first night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead.",
+    "flavor": "Rust and mold are not shackles that will hold the vengeful spirit."
   },
   {
     "id": "carnificina",
@@ -393,7 +414,8 @@
       "Dead"
     ],
     "setup": false,
-    "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies."
+    "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies.",
+    "flavor": "Hunger."
   },
   {
     "id": "linguamori",
@@ -410,7 +432,8 @@
       "Ghost"
     ],
     "setup": false,
-    "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if dead evils voted."
+    "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if dead evils voted.",
+    "flavor": "ô̵̥̺͉̹̠̺̺̠̺͎̮͈̲͝ͅl̴̻̘̦̼̱̻̮̤͓̮̭͆͘a̸̡̢̧̧͔̳͎̥̻̝̖̖̹͊͝ȉ̶̢̛̝͔̘͚̰̯̯͈̜̬̣͈͛͒̇̂̑̿̽͊͝e̴̱̝̾̇́̿̇̈́́į̷̛̭̼̗̘͉̤̰̫͇̏̇͋͝v̷̡̧͎͇̟̗̘̭͔̳̜͓̰̂̍̇͜a̸͕͚̅̐̔͗̈́͗̍̇̏̆͆̓̽͠k̷̛̼̤͔̰̦̥̮̘͇͔͕̲̽̑̏͌̽̀͗̾̔̀̎̚͝ͅì̴̢͖̱̮͚͚̜̲͇̝̺̯̺͜͠e̵̢̻͆w̷̼͊̈́͗́̓̓͗͘͠͝l̵̢̘̥͈̞̭̙̫̪̹͍̲̐͊̿͌̂̔̌̋̃̆͂̽̊͝v̶̢͕̩̯̝̮̦̮̥̘͐̂͆ͅǎ̶̖̺̝̯͊͑̚d̵̨͇͇͔͕͛̏͒̂̀̚f̵̧̣̙̳̓̄i̸̛̱͙͐̉̈́͊̋̓͋̍̀z̴͖͙̳̫̊̌̔̅͗̉̈̿̄͑̆h̷̛̪̩̭̗̣̯̐̀̒͌͐̾̈̄̆̑͝͝t̸͍̃̉́͊̎̈͂̕͘i̸̥̥̞͕̗͚̙̫̫̹̯̰̱̞̓̾̐̃̿́̽̈́̈́͝s̷̟̼͖̰̘̞̦̤̱̩̱̻̀̍͋̿̈́̓̐̀͆̈́͒͘n̶͉̞͎̬̩̄̀̚ͅȁ̶̹̳͖̽̿͛́͑͐͜o̶̠̬̹̽̔͑̌̀̇̌̽̾n̵̛͈͉͎̯͎̬̘̝̦̎̊̃̒́̃͐͋̂͝ͅͅc̴̩̱̈̃̐̂̎̀͋̐̎̆̒̚͘͠n̸̨̢͕͔͔͍̘̬̬̙͋̾t̶̡̜̤̙̮̦͗̽̔̾́̊ ̷̘̬͕̥̮͉͇̣͍̘̈́͊̏͛͜ǎ̵̡̨̼̥͕̗̮̲̗̜̍̓ȩ̴̯̹̙̫̤̠̇̈̋̊͌̔́̐͐͘͜͠d̸̩̍̅ä̸̘̓̾͌͋̄̄͊͝͠b̸̢̝̥̿̓͘l̸̡̬̩̟͓̱̩̻͍̠̟͆̂͌̈́̇͜͠͝ͅă̴̛̦̥͕̼͎͔̟̙̣͇͌̾͒̈́͂͊̓͝d̴̙̠̰̈́̐̂̂̾̏̊̿̊ė̸̯̔̇͒̾͊̎̑̿͠͝͝u̴̖͎̫̘̮̼̗̲͖͕̽̀͋͒̑͒̚̚̚͝ň̵͙̓̎̆͐̕͜͝͠͝l̶̲̜̈́͛̇̐̎̔̇̆̔h̸̯̲̗͉̝̾̋̃̀̔̃͐̚g̵̢̛̲͕̝̙̦̠̞̘͆̏̈́̄̐̀͋̑̓̊̃͋̆ė̷̞͕̗̼̳̾̎̽̃͜͝͝͠î̷̯͉̺̪̞̪̟͍͖̈̂̆̽͝ͅn̶̛͖̭̽̀n̷̡̧̛̘̬̔́͌̽̈́͌͊̊̀̚̚͜ḑ̴̱̻̗̱͕̤̹̼̦̚g̷̜̥̖͖̮̮̐̌̊ǘ̷̡̡̙̭̥̩̲̻̬̞̣͛͊̓̇̑̍̅̊̃̑̏̌͜"
   },
   {
     "id": "miasmagus",
@@ -427,7 +450,8 @@
       "Poisoned"
     ],
     "setup": true,
-    "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR +2 Stalkers]"
+    "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR +2 Stalkers]",
+    "flavor": "The sweet and intoxicating scent of putrefaction seems especially heavy in the labyrinth."
   },
   {
     "id": "peregrimor",
@@ -443,7 +467,8 @@
       "Dead"
     ],
     "setup": true,
-    "ability": "You know all Outsiders. Evil Outsiders learns who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders.]"
+    "ability": "You know all Outsiders. Evil Outsiders learns who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders.]",
+    "flavor": "Friends. Strangers. Family. Traitors. Where we’ve ended up, they’re all the same."
   },
   {
     "id": "dealbreaker",
@@ -458,7 +483,8 @@
     "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
     "otherNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
     "setup": false,
-    "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play."
+    "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play.",
+    "flavor": "You only had to choose; freedom or life? For your greed you shall have neither."
   },
   {
     "id": "echo",
@@ -471,7 +497,8 @@
     ],
     "team": "traveller",
     "setup": false,
-    "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection."
+    "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection.",
+    "flavor": "The wails of victims past is its only voice."
   },
   {
     "id": "lostsoul",
@@ -485,7 +512,8 @@
     "team": "traveller",
     "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
     "setup": false,
-    "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary."
+    "ability": "Each night* you may choose a player (not yourself); their character is announced. If you choose an Evil player the character announced is arbitrary.",
+    "flavor": "Any company is better than to wander the dark alone."
   },
   {
     "id": "scryer",
@@ -500,7 +528,8 @@
     "firstNight": 22,
     "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
     "setup": false,
-    "ability": "On your first night you see a quarter of the Grimoire."
+    "ability": "On your first night you see a quarter of the Grimoire.",
+    "flavor": "The tyrant’s favor is fickle."
   },
   {
     "id": "tombprospector",
@@ -514,6 +543,7 @@
     "team": "traveller",
     "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
     "setup": false,
-    "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player."
+    "ability": "Each night*, choose another player; If alive they learn a true statement about a dead player.",
+    "flavor": "Don’t go that way! Never go that way!"
   }
 ]
