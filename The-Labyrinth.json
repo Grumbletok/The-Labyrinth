@@ -3,8 +3,8 @@
     "id": "_meta",
     "name": "The Labyrinth",
     "author": "Grumbletok",
-    "background": "https://raw.githubusercontent.com/Grumbletok/The-Labyringth/refs/heads/main/_images/Background.webp",
-    "logo": "https://raw.githubusercontent.com/Grumbletok/The-Labyringth/refs/heads/main/_images/Logo.png",
+    "background": "https://github.com/Grumbletok/The-Labyrinth/blob/main/_images/RoundBackground.webp?raw=true",
+    "logo": "https://github.com/Grumbletok/The-Labyrinth/blob/main/_images/Logo.png?raw=true",
     "hideTitle": true,
     "firstNight": [
       "DUSK",
