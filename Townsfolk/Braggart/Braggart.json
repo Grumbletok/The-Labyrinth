@@ -8,5 +8,5 @@
   ],
   "team": "townsfolk",
   "setup": false,
-  "ability": "When you are executed, if there are no other living Townsfolk, good wins."
+  "ability": "When you are executed, if there are no other living Townsfolk, your team wins."
 }
