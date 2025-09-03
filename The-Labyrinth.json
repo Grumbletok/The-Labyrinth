@@ -3,6 +3,9 @@
     "id": "_meta",
     "name": "The Labyrinth",
     "author": "Grumbletok",
+    "background": "https://raw.githubusercontent.com/Grumbletok/The-Labyringth/refs/heads/main/_images/Background.webp",
+    "logo": "https://raw.githubusercontent.com/Grumbletok/The-Labyringth/refs/heads/main/_images/Logo.png",
+    "hideTitle": true,
     "firstNight": [
       "DUSK",
       "MINIONINFO",
