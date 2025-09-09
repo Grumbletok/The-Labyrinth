@@ -360,7 +360,7 @@
     "team": "minion",
     "reminders": ["Itchy", "Itchy", "Infested", "Poisoned"],
     "setup": true,
-    "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player live. The chosen player and up to 2 other players learns that they were picked.",
+    "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player is alive. The chosen player and up to 2 other players learn that they were picked.",
     "flavor": "They were given provisions, sure. But there were more mouths to feed than calculated."
   },
   {
@@ -436,7 +436,7 @@
       "Ghost"
     ],
     "setup": false,
-    "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if dead evils voted.",
+    "ability": "Each night*, choose a player; they die. Dead Evils don’t need a vote token to vote. Ties result in shared marks for death if at least 1 dead evil voted voted.",
     "flavor": "ô̵̥̺͉̹̠̺̺̠̺͎̮͈̲͝ͅl̴̻̘̦̼̱̻̮̤͓̮̭͆͘a̸̡̢̧̧͔̳͎̥̻̝̖̖̹͊͝ȉ̶̢̛̝͔̘͚̰̯̯͈̜̬̣͈͛͒̇̂̑̿̽͊͝e̴̱̝̾̇́̿̇̈́́į̷̛̭̼̗̘͉̤̰̫͇̏̇͋͝v̷̡̧͎͇̟̗̘̭͔̳̜͓̰̂̍̇͜a̸͕͚̅̐̔͗̈́͗̍̇̏̆͆̓̽͠k̷̛̼̤͔̰̦̥̮̘͇͔͕̲̽̑̏͌̽̀͗̾̔̀̎̚͝ͅì̴̢͖̱̮͚͚̜̲͇̝̺̯̺͜͠e̵̢̻͆w̷̼͊̈́͗́̓̓͗͘͠͝l̵̢̘̥͈̞̭̙̫̪̹͍̲̐͊̿͌̂̔̌̋̃̆͂̽̊͝v̶̢͕̩̯̝̮̦̮̥̘͐̂͆ͅǎ̶̖̺̝̯͊͑̚d̵̨͇͇͔͕͛̏͒̂̀̚f̵̧̣̙̳̓̄i̸̛̱͙͐̉̈́͊̋̓͋̍̀z̴͖͙̳̫̊̌̔̅͗̉̈̿̄͑̆h̷̛̪̩̭̗̣̯̐̀̒͌͐̾̈̄̆̑͝͝t̸͍̃̉́͊̎̈͂̕͘i̸̥̥̞͕̗͚̙̫̫̹̯̰̱̞̓̾̐̃̿́̽̈́̈́͝s̷̟̼͖̰̘̞̦̤̱̩̱̻̀̍͋̿̈́̓̐̀͆̈́͒͘n̶͉̞͎̬̩̄̀̚ͅȁ̶̹̳͖̽̿͛́͑͐͜o̶̠̬̹̽̔͑̌̀̇̌̽̾n̵̛͈͉͎̯͎̬̘̝̦̎̊̃̒́̃͐͋̂͝ͅͅc̴̩̱̈̃̐̂̎̀͋̐̎̆̒̚͘͠n̸̨̢͕͔͔͍̘̬̬̙͋̾t̶̡̜̤̙̮̦͗̽̔̾́̊ ̷̘̬͕̥̮͉͇̣͍̘̈́͊̏͛͜ǎ̵̡̨̼̥͕̗̮̲̗̜̍̓ȩ̴̯̹̙̫̤̠̇̈̋̊͌̔́̐͐͘͜͠d̸̩̍̅ä̸̘̓̾͌͋̄̄͊͝͠b̸̢̝̥̿̓͘l̸̡̬̩̟͓̱̩̻͍̠̟͆̂͌̈́̇͜͠͝ͅă̴̛̦̥͕̼͎͔̟̙̣͇͌̾͒̈́͂͊̓͝d̴̙̠̰̈́̐̂̂̾̏̊̿̊ė̸̯̔̇͒̾͊̎̑̿͠͝͝u̴̖͎̫̘̮̼̗̲͖͕̽̀͋͒̑͒̚̚̚͝ň̵͙̓̎̆͐̕͜͝͠͝l̶̲̜̈́͛̇̐̎̔̇̆̔h̸̯̲̗͉̝̾̋̃̀̔̃͐̚g̵̢̛̲͕̝̙̦̠̞̘͆̏̈́̄̐̀͋̑̓̊̃͋̆ė̷̞͕̗̼̳̾̎̽̃͜͝͝͠î̷̯͉̺̪̞̪̟͍͖̈̂̆̽͝ͅn̶̛͖̭̽̀n̷̡̧̛̘̬̔́͌̽̈́͌͊̊̀̚̚͜ḑ̴̱̻̗̱͕̤̹̼̦̚g̷̜̥̖͖̮̮̐̌̊ǘ̷̡̡̙̭̥̩̲̻̬̞̣͛͊̓̇̑̍̅̊̃̑̏̌͜"
   },
   {
