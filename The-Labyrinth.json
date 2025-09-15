@@ -290,7 +290,7 @@
       "Noisy"
     ],
     "setup": false,
-    "ability": "Each night*, if you nominated today, each evil player chooses a player; they learn the chosen players’ character.",
+    "ability": "Each night*, if you nominated today, 1 or more evil players chooses a player; they learn the chosen players’ character.",
     "flavor": "Someone must be first to wait , alone in the dark."
   },
   {
