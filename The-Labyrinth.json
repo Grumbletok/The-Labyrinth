@@ -246,7 +246,7 @@
     "setup": true,
     "name": "Stargazer",
     "team": "townsfolk",
-    "ability": "You start knowing one not-in-play Outsider, or if there are none. [-1 Outsider]",
+    "ability": "You start knowing one not-in-play Outsider.(Or that 0 are in play.)[-1 Outsider]",
     "flavor": "Despite the curfew, they found the night sky is irresistible."
   },
   {
