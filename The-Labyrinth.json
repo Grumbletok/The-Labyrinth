@@ -61,8 +61,11 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
+        "reminders": [
+      "Bragging"
+    ],
     "setup": false,
-    "ability": "When you are executed, if there are no other living Townsfolk, your team wins.",
+    "ability": "Once per game during the day before nominations, publicly choose a player; until dawn, if they die, the player responsible for their death’s team loses the game.",
         "flavor": "As a specimen, yes, I’m intimidating!"
   },
   {
@@ -361,7 +364,7 @@
     "reminders": ["Itchy", "Itchy", "Infested", "Poisoned"],
     "setup": true,
     "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player is alive. The chosen player and up to 2 other players learn that they were picked.",
-    "flavor": "They were given provisions, sure. But there were more mouths to feed than calculated."
+    "flavor": "The early worm eats the bird."
   },
   {
     "id": "troglodyte",
