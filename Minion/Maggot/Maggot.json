@@ -9,5 +9,6 @@
   "team": "minion",
   "reminders": ["Itchy", "Itchy", "Infested", "Poisoned"],
   "setup": true,
-  "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player is alive. The chosen player and up to 2 other players learn that they were picked."
+  "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player is alive. The chosen player and up to 2 other players learn that they were picked.",
+  "flavor": "The early worm eats the bird."
 }
