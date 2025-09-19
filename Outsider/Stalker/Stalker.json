@@ -13,5 +13,5 @@
     "Stalked"
   ],
   "setup": true,
-  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0 to +1 Stalker]"
+  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [Might be duplicated]"
 }
