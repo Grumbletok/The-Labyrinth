@@ -425,7 +425,12 @@
     "flavor": "Hunger."
   },
   {
-"vigormortis"
+"id": "vigormortis",
+    "name": "vigormortis",
+    "edition":"Sects & Violets",'
+    "team": "demon",
+    "setup": true,
+    "ability": "Each night*, choose a player; they die. Minions you kill keep their ability and poison 1 Townsfolk neighbor.[-1 Outsider]"
   },
   {
     "id": "miasmagus",
