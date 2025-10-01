@@ -11,9 +11,12 @@
   "otherNightReminder": "If alive, move the Drunk reminder token to the next good player seated in the chosen direction.",
   "reminders": [
     "Drunk",
-    "Clockwise",
-    "Counter-Clockwise"
+    "⮜",
+    "⮝",
+    "⮞",
+    "⮟"
   ],
   "setup": false,
-  "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction."
+  "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction.",
+  "flavor": "Refund? Never heard of him."
 }

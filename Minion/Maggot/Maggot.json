@@ -7,8 +7,8 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"
   ],
   "team": "minion",
-  "reminders": ["Itchy", "Itchy", "Infested", "Poisoned"],
+  "reminders": ["Poisoned"],
   "setup": true,
-  "ability": "On your first night, choose a good player; a Townsfolk player is Poisoned as long as that player is alive. The chosen player and up to 2 other players learn that they were picked.",
+  "ability": "You start knowing 3 in-play Townsfolk characters. Choose 1; they are poisoned.",
   "flavor": "The early worm eats the bird."
 }

@@ -7,11 +7,16 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"
   ],
   "team": "townsfolk",
-  "firstNightReminder": "Put the Neighbor reminder tokens on the players neighboring the Rascal. Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
-  "otherNightReminder": "Wake up the Rascal, show them a character type that corresponds to either of the players with Neighbor tokens. Then move the Neighbor reminder tokens one step away from the Rascal.",
+  "firstNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them.",
+  "otherNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them.",
   "reminders": [
-    "Neighbor"
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
   ],
   "setup": false,
-  "ability": "Each night, you learn the character type of a neighbor, then you consider your neighbors to be one step further."
+  "ability": "Each night, you learn the character type of a player seated X steps away from you, were X is the current night number.",
+  "flavor": "I swear, if I get my hands on that little-"
 }

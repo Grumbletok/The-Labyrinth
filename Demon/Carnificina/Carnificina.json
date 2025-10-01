@@ -15,5 +15,6 @@
     "Dead"
   ],
   "setup": false,
-  "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies."
+  "ability": "Each night, choose 3 living players: One learns the rest. Next night, if all live, two die. Otherwise, a player dies.",
+  "flavor": "Hunger."
 }

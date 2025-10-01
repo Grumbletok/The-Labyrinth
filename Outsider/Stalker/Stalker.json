@@ -13,5 +13,6 @@
     "Stalked"
   ],
   "setup": true,
-  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [Might be duplicated]"
+  "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [Might be duplicated]",
+  "flavor": "It’s just paranoia."
 }

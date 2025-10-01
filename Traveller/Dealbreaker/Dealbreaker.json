@@ -11,5 +11,6 @@
   "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
   "otherNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
   "setup": false,
-  "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play."
+  "ability": "Each night you may choose to learn either 1) a player that is drunk/poisoned OR; 2) a character that is not in play.",
+  "flavor": "You only had to choose; freedom or life? For your greed you shall have neither."
 }

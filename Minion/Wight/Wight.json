@@ -15,5 +15,6 @@
     "Returned"
   ],
   "setup": false,
-  "ability": "On your first night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead."
+  "ability": "On your 1st night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead.",
+  "flavor": "Rust and mold are not shackles that will hold the vengeful spirit."
 }

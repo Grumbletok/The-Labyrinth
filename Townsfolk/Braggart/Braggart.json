@@ -7,6 +7,10 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
   ],
   "team": "townsfolk",
+  "reminders": [
+    "Bragging"
+  ],
   "setup": false,
-  "ability": "Once per game during the day before nominations, publicly choose a player; until dawn, if they die, the player responsible for their death’s team loses the game."
+  "ability": "Once per game, during the day before nominations, publicly choose a player; until dawn, if they die, the player responsible for their death’s team loses the game.",
+  "flavor": "As a specimen, yes, I’m intimidating!"
 }
