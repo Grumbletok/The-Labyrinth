@@ -166,15 +166,16 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
-    "firstNightReminder": "Have the Poet pick 3 other players, then put them back to sleep.",
+    "firstNightReminder": "Wake the Poet and signal that they may choose 3 players. If they do, note those players down with the ✒️ reminder tokens.",
+    "otherNightReminder": "If the Poet has yet to choose any players, wake the Poet and signal that they may choose 3 players. If they do, note those players down with the ✒️ reminder tokens."
     "reminders": [
       "✒️",
       "✒️",
       "✒️"
     ],
     "setup": false,
-    "ability": "On your first night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players as a group.",
-    "flavor": "Surely it hurts when buds burst into bloom, why else would spring hesitate?"
+    "ability": "Once per game at night, choose three other players. Each day you may privately ask the Storyteller for a true statement relating to the chosen players as a group.",
+    "flavor": "In the hand of a poet, the quill cast spells that topple mountains, stirs the oceans and commands the hearts of mighties of monarchs. The tyrant is right to fear them."
   },
   {
     "id": "rascal",
