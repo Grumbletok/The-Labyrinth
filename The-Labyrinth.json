@@ -350,7 +350,6 @@
     ],
     "team": "minion",
     "reminders": ["Poisoned"],
-    "setup": true,
     "ability": "You start knowing 3 in-play Townsfolk characters. Choose 1; they are poisoned.",
     "flavor": "The early worm eats the bird."
   },
@@ -520,7 +519,7 @@
   },
   {
     "id": "lostsoul",
-    "name": "Last Soul",
+    "name": "Lost Soul",
     "edition": "custom",
     "image": [
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
