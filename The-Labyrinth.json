@@ -93,7 +93,7 @@
     "firstNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
     "otherNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
     "setup": true,
-    "ability": "Each night you learn a non-Townsfolk, non-Traveler player.[+1 Outsider]",
+    "ability": "You start knowing 1 in-play good character. If a player with the character you know dies, you learn another in-play good character tonight.[+0/1 Outsider]",
     "flavor": "Till from dawn till dusk."
   },
   {
