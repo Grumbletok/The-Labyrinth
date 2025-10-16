@@ -90,8 +90,8 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
-    "firstNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
-    "otherNightReminder": "Wake up the serf and point at a player that is any character type but Townsfolk or Traveler.",
+    "firstNightReminder": "Wake up the serf and show them the character token of an in-play good character.",
+    "otherNightReminder": "If a player with the previously known character has died since last dawn, wake up the serf and show them the character token of an in-play good character.",
     "setup": true,
     "ability": "You start knowing 1 in-play good character. If a player with the character you know dies, you learn another in-play good character tonight.[+0/1 Outsider]",
     "flavor": "Till from dawn till dusk."
