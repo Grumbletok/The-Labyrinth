@@ -1,6 +1,6 @@
 {
-  "id": "echo",
-  "name": "Echo",
+  "id": "torchbearer",
+  "name": "Torchbearer",
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image.png?raw=true",
@@ -9,6 +9,6 @@
   ],
   "team": "traveller",
   "setup": false,
-  "ability": "Each day, you may only repeat words that the Storyteller has said today, or you might die. If you are dead, once per day you may call for a vote for your resurrection.",
-  "flavor": "The wails of victims past is its only voice."
+  "ability": "Each night, choose 2 players (not yourself); 1 learns a true statement, the other learns a false statement.",
+  "flavor": "The way is lit. The path is clear. We require only the strength to follow it."
 }
