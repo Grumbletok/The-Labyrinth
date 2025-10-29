@@ -540,7 +540,7 @@
     "edition": "custom",
     "image": [
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Torchbearer/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Echo/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Torchbearer/image_good.png?raw=true",
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Torchbearer/image_evil.png?raw=true"
     ],
     "team": "traveller",
