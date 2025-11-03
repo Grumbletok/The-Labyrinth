@@ -467,7 +467,7 @@
       "Poisoned"
     ],
     "setup": true,
-    "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR +2 Stalkers]",
+    "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until the next Outsider dies.[+1 Outsider OR 1 Outsider is duplicated.]",
     "flavor": "The sweet and intoxicating scent of putrefaction seems especially heavy in the labyrinth."
   },
   {
@@ -484,7 +484,7 @@
       "Dead"
     ],
     "setup": true,
-    "ability": "You know all Outsiders. Evil Outsiders learn who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders.]",
+    "ability": "You know all Outsiders. Evil Outsiders learn who you are. Each night* choose a player; they die. [+1 Minion, All Minions are Evil Outsiders. They might be duplicates.]",
     "flavor": "Friends. Strangers. Family. Traitors. Where we’ve ended up, they’re all the same."
   },
 
