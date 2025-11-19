@@ -107,17 +107,26 @@
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
-    "firstNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them.",
-    "otherNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them.",
+    "firstNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them, skipping travelers.",
+    "otherNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them, skipping travelers..",
     "reminders": [
       "1",
+      "1",
+      "2",
       "2",
       "3",
+      "3",
       "4",
-      "5"
+      "4",
+      "5",
+      "5",
+      "6",
+      "6",
+      "7",
+      "7"
     ],
     "setup": false,
-    "ability": "Each night, you learn the character type of a player seated X steps away from you, were X is the current night number.",
+    "ability": "Each night, you learn the character type of a player seated X steps away from you(skipping travelers), were X is the current night number.",
     "flavor": "I swear, if I get my hands on that little-"
   },
   {
@@ -283,7 +292,9 @@
     "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
     "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
     "reminders": [
-      "Stalked"
+      "Stalked 1",
+      "Stalked 2",
+      "Stalked 3"
     ],
     "setup": true,
     "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0/+1 Stalker]",
@@ -365,12 +376,13 @@
     ],
     "team": "minion",
     "reminders": [
+      "Is Emulating",
       "Trog 1",
       "Trog 2",
       "Trog 3"
     ],
     "setup": false,
-    "ability": "You start knowing one not-in-play Outsider; you have their ability. You might register as an Outsider.",
+    "ability": "You start knowing one not-in-play Outsider, and if you have their ability. You might register as an Outsider.",
     "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
   },
   {
@@ -403,6 +415,11 @@
     ],
     "team": "minion",
     "reminders": [
+      "Enthralled",
+      "Enthralled",
+      "Enthralled",
+      "Enthralled",
+      "Enthralled",
       "Enthralled"
     ],
     "setup": false,
