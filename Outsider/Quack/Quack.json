@@ -18,5 +18,11 @@
   ],
   "setup": false,
   "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction.",
-  "flavor": "Refund? Never heard of him."
+  "flavor": "Refund? Never heard of him.",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-duplicate"
+    }
+  ]
 }

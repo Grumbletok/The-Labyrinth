@@ -9,5 +9,11 @@
   "team": "outsider",
   "setup": false,
   "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon.",
-  "flavor": "A striking addition to any social occasion."
+  "flavor": "A striking addition to any social occasion.",
+  "special": [
+    {
+      "type": "selection",
+      "name": "bag-duplicate"
+    }
+  ]
 }

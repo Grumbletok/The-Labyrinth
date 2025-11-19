@@ -298,7 +298,13 @@
     ],
     "setup": true,
     "ability": "Each night, choose another living player: Until dusk, any ability that interacts with them might interact with you instead. [+0/+1 Stalker]",
-    "flavor": "It’s just paranoia."
+    "flavor": "It’s just paranoia.",
+    "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      }
+    ]
   },
   {
     "id": "lamplighter",
@@ -315,7 +321,13 @@
     ],
     "setup": false,
     "ability": "Each night*, if you nominated today, 1 or more evil players chooses a player; they learn the chosen players’ character.",
-    "flavor": "Someone must be first to wait , alone in the dark."
+    "flavor": "Someone must be first to wait , alone in the dark.",
+    "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      }
+    ]
   },
   {
     "id": "quack",
@@ -337,7 +349,13 @@
     ],
     "setup": false,
     "ability": "You start choosing a direction; your closest good neighbor in that direction is Drunk, even if dead. Each night*, the drunkenness moves to the next good player in the chosen direction.",
-    "flavor": "Refund? Never heard of him."
+    "flavor": "Refund? Never heard of him.",
+    "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      }
+    ]
   },
   {
     "id": "hellion",
@@ -350,7 +368,13 @@
     "team": "outsider",
     "setup": false,
     "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon.",
-    "flavor": "A striking addition to any social occasion."
+    "flavor": "A striking addition to any social occasion.",
+    "special": [
+      {
+        "type": "selection",
+        "name": "bag-duplicate"
+      }
+    ]
   },
 
   {
