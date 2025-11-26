@@ -95,7 +95,7 @@
     "firstNightReminder": "Wake up the serf and show them the character token of an in-play good character.",
     "otherNightReminder": "If a player with the previously known character has died since last dawn, wake up the serf and show them the character token of an in-play good character.",
     "setup": true,
-    "ability": "You start knowing 1 in-play good character. If a player with the character you know dies, you learn another in-play good character tonight.[+0/1 Outsider]",
+    "ability": "On your 1st night, choose 5 characters. Each night*, learn 1 of your chosen characters and if it is in play.[+0/1 Outsider]",
     "flavor": "The primary crop of those who till the fields of tyrants is suspicion."
   },
   {
