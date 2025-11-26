@@ -7,9 +7,9 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
   ],
   "team": "townsfolk",
-  "firstNightReminder": "Wake up the serf and show them the character token of an in-play good character.",
-  "otherNightReminder": "If a player with the previously known character has died since last dawn, wake up the serf and show them the character token of an in-play good character.",
+  "firstNightReminder": "Wake up the Serf and have them choose 5 characters of any type on the script.",
+  "otherNightReminder": "Wake up the Serf, show them 1 of their chosen characters and either a thumbs up or a thumbs down, indicating if it is in play or not.",
   "setup": true,
-  "ability": "You start knowing 1 in-play good character. If a player with the character you know dies, you learn another in-play good character tonight.[+0/1 Outsider]",
-  "flavor": "Till from dawn till dusk."
+  "ability": "On your 1st night, choose 5 characters. Each night*, learn 1 of your chosen characters and if it is in play.[+0/1 Outsider]",
+  "flavor": "The primary crop of those who till the fields of tyrants is suspicion."
 }
