@@ -273,10 +273,13 @@
     ],
     "team": "townsfolk",
     "reminders": [
+      "Drunk",
+      "Drunk",
+      "Drunk",
       "Drunk"
     ],
     "setup": true,
-    "ability": "Outsiders that you nominate are drunk until dawn. Executed Outsiders learn who you are. [+1 Outsider]",
+    "ability": "Outsiders that you nominate are drunk until dawn, and stay drunk from now on if executed. Executed Outsiders learn who you are. [+1 Outsider]",
     "flavor": "Hello Mister Rat! Have you met my friend, Mister Key?"
   },
 
