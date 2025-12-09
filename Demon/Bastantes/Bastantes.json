@@ -1,0 +1,18 @@
+{
+  "id": "bastantes",
+  "name": "Bastantes",
+  "edition": "custom",
+  "image": [
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Bastantes/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Bastantes/image_good.png?raw=true"
+  ],
+  "team": "demon",
+  "otherNightReminder": "Wake up the Bastantes and have them choose a player. Put the Dead reminder token on that player. Then you may wake another player and show them a prepared text with the Devil's Bargain you wish to offer them.",
+  "reminders": [
+    "Dead",
+    "Devil's Bargain"
+  ],
+  "setup": false,
+  "ability": "Each night*, choose a player; they die. Then, a dead player might be offered a Devil’s Bargain. A Devil’s Bargain must be accepted publicly during the day."
+}
+
