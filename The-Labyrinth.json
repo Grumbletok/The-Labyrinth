@@ -489,7 +489,7 @@
     "Devil's Bargain"
   ],
   "setup": false,
-  "ability": "It's a surprise!"
+  "ability": "Each night*, choose a player; they die. Then, a dead player might be offered a Devil’s Bargain. A Devil’s Bargain must be accepted publicly during the day."
   },
   {
     "id": "miasmagus",
