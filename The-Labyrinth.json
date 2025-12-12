@@ -476,10 +476,10 @@
   },
   {
   "id": "bastantes",
-  "name": "Surprise!",
+  "name": "Bastantes",
   "edition": "custom",
   "image": [
-    "https://github.com/yoyosource/BOTC-HomeBrew/blob/master/Present/Demon.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Bastantes/image.png?raw=true",
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Bastantes/image_good.png?raw=true"
   ],
   "team": "demon",
@@ -489,7 +489,7 @@
     "Devil's Bargain"
   ],
   "setup": false,
-  "ability": "It's a surprise!."
+  "ability": "Each night*, choose a player; they die. Then, a dead player might be offered a Devil’s Bargain. A Devil’s Bargain must be accepted publicly during the day."
   },
   {
     "id": "miasmagus",
