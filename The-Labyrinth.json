@@ -301,8 +301,8 @@
       "Stalked 4"
     ],
     "setup": true,
-    "ability": "Each night, choose another, living player; any reminder token that would be placed on that player tonight might be placed on you instead. [+0/+1 Stalker]",
-    "flavor": "Hello? Is somebody there?",
+    "ability": "Each night, choose another, living player; reminder tokens that would be placed on that player tonight might be placed on you instead. [-1/+0/+1 Outsider]",
+    "flavor": "Hello? Is anybody there?",
     "special": [
       {
         "type": "selection",
