@@ -238,7 +238,7 @@
       "Bragging"
     ],
     "setup": false,
-    "ability": "Once per game, during the day before nominations, publicly choose a player; until dawn, if they die, the player responsible for their death’s team loses the game.",
+    "ability": "Once per game during the day, publicly choose a player that has not been nominated today; until dawn, if they die, the player responsible for their death’s team loses the game.",
     "flavor": "As a specimen, yes, I’m intimidating!"
   },
   {
