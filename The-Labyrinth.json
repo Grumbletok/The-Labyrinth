@@ -11,6 +11,7 @@
       "DUSK",
       "MINIONINFO",
       "DEMONINFO",
+      "cartwright",
       "maggot",
       "stalker",
       "carnificina",
@@ -23,7 +24,6 @@
       "stargazer",
       "rascal",
       "jeweler",
-      "cartwright",
       "serf",
       "scryer",
       "torchbearer",
@@ -31,6 +31,7 @@
     ],
     "otherNight": [
       "DUSK",
+      "cartwright",
       "chindi",
       "stalker",
       "lamplighter",
@@ -46,7 +47,6 @@
       "ratcatcher",
       "rascal",
       "jeweler",
-      "cartwright",
       "serf",
       "chronicler",
       "lostsoul",
@@ -56,7 +56,7 @@
   },
 
   {
-    "id": "stargazer",
+    "id": "labyrinthstargazer",
     "edition": "custom",
     "image": [
       "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true",
@@ -70,7 +70,7 @@
     "flavor": "Despite the curfew, they found the night sky is irresistible."
   },
   {
-    "id": "treasurer",
+    "id": "labyrinthtreasurer",
     "name": "Treasurer",
     "edition": "custom",
     "image": [
@@ -84,7 +84,7 @@
     "flavor": "You don’t have to be an alchemist to turn ink into gold."
   },
   {
-    "id": "serf",
+    "id": "labyrinthserf",
     "name": "Serf",
     "edition": "custom",
     "image": [
@@ -99,7 +99,7 @@
     "flavor": "The primary crop of those who till the fields of tyrants is suspicion."
   },
   {
-    "id": "rascal",
+    "id": "labyrinthrascal",
     "name": "Rascal",
     "edition": "custom",
     "image": [
@@ -130,7 +130,7 @@
     "flavor": "I swear, if I get my hands on that little-"
   },
   {
-    "id": "cartwright",
+    "id": "labyrinthcartwright",
     "name": "Cartwright",
     "edition": "custom",
     "image": [
@@ -148,7 +148,7 @@
     "flavor": "At the site of a broken cart, everyone’s an expert."
   },
   {
-    "id": "chronicler",
+    "id": "labyrinthchronicler",
     "name": "Chronicler",
     "edition": "custom",
     "image": [
@@ -162,7 +162,7 @@
     "flavor": "The best way to preserve history is with dramatic flair."
   },
   {
-    "id": "shepherd",
+    "id": "labyrinthshepherd",
     "name": "Shepherd",
     "edition": "custom",
     "image": [
@@ -175,7 +175,7 @@
     "flavor": "Freedom, fresh air and a whole herd of friends! I dare you to name someone luckier than me!"
   },
   {
-    "id": "herald",
+    "id": "labyrinthherald",
     "name": "Herald",
     "edition": "custom",
     "image": [
@@ -191,7 +191,7 @@
     "flavor": "Lord of the common folk, bringer of peace, grand speaker for the commune of spirits, conqueror of Leng & Hyboria, champion of the eternal duel…"
   },
   {
-    "id": "jeweler",
+    "id": "labyrinthjeweler",
     "name": "Jeweler",
     "edition": "custom",
     "image": [
@@ -209,7 +209,7 @@
     "flavor": "Cut short of perfection."
   },
   {
-    "id": "poet",
+    "id": "labyrinthpoet",
     "name": "Poet",
     "edition": "custom",
     "image": [
@@ -229,7 +229,7 @@
     "flavor": "In the hand of a poet, the quill cast spells that topple mountains, stirs the oceans and commands the hearts of mighties of monarchs. The tyrant is right to fear them."
   },
   {
-    "id": "braggart",
+    "id": "labyrinthbraggart",
     "name": "Braggart",
     "edition": "custom",
     "image": [
@@ -245,7 +245,7 @@
     "flavor": "As a specimen, yes, I’m intimidating!"
   },
   {
-    "id": "palaceguard",
+    "id": "labyrinthpalaceguard",
     "name": "Palace Guard",
     "edition": "custom",
     "image": [
@@ -267,7 +267,7 @@
     "flavor": "It doesn’t matter how well armed you are if you’re not also prepared to leg it."
   },
   {
-    "id": "ratcatcher",
+    "id": "labyrinthratcatcher",
     "name": "Ratcatcher",
     "edition": "custom",
     "image": [
@@ -287,7 +287,7 @@
   },
 
   {
-    "id": "stalker",
+    "id": "labyrinthstalker",
     "name": "Stalker",
     "edition": "custom",
     "image": [
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "id": "lamplighter",
+    "id": "labyrinthlamplighter",
     "name": "Lamplighter",
     "edition": "custom",
     "image": [
@@ -337,7 +337,7 @@
     ]
   },
   {
-    "id": "quack",
+    "id": "labyrinthquack",
     "name": "Quack",
     "edition": "custom",
     "image": [
@@ -365,7 +365,7 @@
     ]
   },
   {
-    "id": "hellion",
+    "id": "labyrinthhellion",
     "name": "Hellion",
     "edition": "custom",
     "image": [
@@ -385,7 +385,7 @@
   },
 
   {
-    "id": "maggot",
+    "id": "labyrinthmaggot",
     "name": "Maggot",
     "edition": "custom",
     "image": [
@@ -398,7 +398,7 @@
     "flavor": "The early worm eats the bird."
   },
   {
-    "id": "troglodyte",
+    "id": "labyrinthtroglodyte",
     "name": "Troglodyte",
     "edition": "custom",
     "image": [
@@ -417,7 +417,7 @@
     "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
   },
   {
-    "id": "wight",
+    "id": "labyrinthwight",
     "name": "Wight",
     "edition": "custom",
     "image": [
@@ -437,7 +437,7 @@
     "flavor": "Rust and mold are not shackles that will hold the vengeful spirit."
   },
   {
-    "id": "chindi",
+    "id": "labyrinthchindi",
     "name": "Chindi",
     "edition": "custom",
     "image": [
@@ -459,7 +459,7 @@
   },
 
   {
-    "id": "carnificina",
+    "id": "labyrinthcarnificina",
     "name": "Carnificina",
     "edition": "custom",
     "image": [
@@ -479,7 +479,7 @@
     "flavor": "Hunger."
   },
   {
-  "id": "bastantes",
+  "id": "labyrinthbastantes",
   "name": "Bastantes",
   "edition": "custom",
   "image": [
@@ -496,7 +496,7 @@
   "ability": "Each night*, choose a player; they die. Then, a dead player might be offered a Devil’s Bargain. A Devil’s Bargain must be accepted publicly during the day."
   },
   {
-    "id": "miasmagus",
+    "id": "labyrinthmiasmagus",
     "name": "Miasmagus",
     "edition": "custom",
     "image": [
@@ -514,7 +514,7 @@
     "flavor": "The sweet and intoxicating scent of putrefaction seems especially heavy in the labyrinth."
   },
   {
-    "id": "peregrimor",
+    "id": "labyrinthperegrimor",
     "name": "Peregrimor",
     "edition": "custom",
     "image": [
@@ -532,7 +532,7 @@
   },
 
   {
-    "id": "dealbreaker",
+    "id": "labyrinthdealbreaker",
     "name": "Dealbreaker",
     "edition": "custom",
     "image": [
@@ -548,7 +548,7 @@
     "flavor": "You only had to choose; freedom or life? For your greed you shall have neither."
   },
   {
-    "id": "tombprospector",
+    "id": "labyrinthtombprospector",
     "name": "Tomb Prospector",
     "edition": "Custom",
     "image": [
@@ -563,7 +563,7 @@
     "flavor": "Don’t go that way! Never go that way!"
   },
   {
-    "id": "lostsoul",
+    "id": "labyrinthlostsoul",
     "name": "Lost Soul",
     "edition": "custom",
     "image": [
@@ -578,7 +578,7 @@
     "flavor": "Any company is better than to wander the dark alone."
   },
   {
-    "id": "torchbearer",
+    "id": "labyrinthtorchbearer",
     "name": "Torchbearer",
     "edition": "custom",
     "image": [
@@ -592,7 +592,7 @@
     "flavor": "The way is lit. The path is clear. We require only the strength to follow it."
   },
   {
-    "id": "scryer",
+    "id": "labyrinthscryer",
     "name": "Scryer",
     "edition": "custom",
     "image": [
