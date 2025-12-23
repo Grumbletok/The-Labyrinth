@@ -142,7 +142,7 @@
     "otherNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
     "setup": false,
     "ability": "Each night, choose an alive player (not yourself); you learn if there are any drunk or poisoned players between you on a shortest route.",
-    "flavor": "At the site of a broken cart, everyone’s an engineer."
+    "flavor": "At the site of a broken cart, everyone’s an expert."
   },
   {
     "id": "chronicler",
