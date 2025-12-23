@@ -10,8 +10,9 @@
   "firstNightReminder": "Wake up the Cartwright and have them choose another player, put the Repaired reminder token on that player.",
   "otherNightReminder": "Wake up the Cartwright and have them choose another player, put the Repaired reminder token on that player.",
   "setup": false,
-  "reminders":
-  "Repaired"
-  "ability": "Each night, choose a player (not yourself); They are safe from Outsiders and Minions until dusk.",
+    "reminders": [
+      "Repaired"
+    ],
+    "ability": "Each night, choose a player (not yourself); They are safe from Outsiders and Minions until dusk.",
   "flavor": "At the site of a broken cart, everyone’s an expert."
 }
