@@ -7,9 +7,11 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"
   ],
   "team": "townsfolk",
-  "firstNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
-  "otherNightReminder": "Wake up the Cartwright and have them choose another player, then if there are any drunk or poisoned players between themselves and the chosen player, indicate a yes. Otherwise, indicate a no.",
+  "firstNightReminder": "Wake up the Cartwright and have them choose another player, put the Repaired reminder token on that player.",
+  "otherNightReminder": "Wake up the Cartwright and have them choose another player, put the Repaired reminder token on that player.",
   "setup": false,
-  "ability": "Each night, choose an alive player (not yourself); you learn if there are any drunk or poisoned players between you on a shortest route.",
+  "reminders":
+  "Repaired"
+  "ability": "Each night, choose a player (not yourself); They are safe from Outsiders and Minions until dusk.",
   "flavor": "At the site of a broken cart, everyone’s an expert."
 }
