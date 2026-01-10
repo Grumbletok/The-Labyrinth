@@ -1,66 +1,66 @@
 [
   {
     "id": "_meta",
-    "name": "The Labyrinth",
+    "name": "The labyrinth",
     "author": "Grumbletok",
-    "background": "https://github.com/Grumbletok/The-Labyrinth/blob/main/_images/RoundBackground.webp?raw=true",
-    "logo": "https://github.com/Grumbletok/The-Labyrinth/blob/main/_images/Logo.png?raw=true",
-    "almanac": "https://grumbletok.github.io/The-Labyrinth/Almanac.html",
+    "background": "https://github.com/Grumbletok/The-labyrinth/blob/main/_images/RoundBackground.webp?raw=true",
+    "logo": "https://github.com/Grumbletok/The-labyrinth/blob/main/_images/Logo.png?raw=true",
+    "almanac": "https://grumbletok.github.io/The-labyrinth/Almanac.html",
     "hideTitle": true,
     "firstNight": [
       "DUSK",
       "MINIONINFO",
       "DEMONINFO",
-      "labyrinthcartwright",
-      "labyrinthmaggot",
-      "labyrinthstalker",
-      "labyrinthcarnificina",
-      "labyrinthwight",
-      "labyrinthquack",
-      "labyrinthtreasurer",
-      "labyrinthdealbreaker",
-      "labyrinthpoet",
-      "labyrinthpalaceguard",
-      "labyrinthstargazer",
-      "labyrinthrascal",
-      "labyrinthjeweler",
-      "labyrinthserf",
-      "labyrinthscryer",
-      "labyrinthtorchbearer",
+      "thelabyrinth:cartwright",
+      "thelabyrinth:maggot",
+      "thelabyrinth:stalker",
+      "thelabyrinth:carnificina",
+      "thelabyrinth:wight",
+      "thelabyrinth:quack",
+      "thelabyrinth:treasurer",
+      "thelabyrinth:dealbreaker",
+      "thelabyrinth:poet",
+      "thelabyrinth:palaceguard",
+      "thelabyrinth:stargazer",
+      "thelabyrinth:rascal",
+      "thelabyrinth:jeweler",
+      "thelabyrinth:serf",
+      "thelabyrinth:scryer",
+      "thelabyrinth:torchbearer",
       "DAWN"
     ],
     "otherNight": [
       "DUSK",
-      "labyrinthcartwright",
-      "labyrinthchindi",
-      "labyrinthstalker",
-      "labyrinthlamplighter",
-      "labyrinthquack",
-      "labyrinthcarnificina",
-      "labyrinthperegrimor",
-      "thelabyrinth:vigormortis",
-      "labyrinthmiasmagus",
-      "labyrinthwight",
-      "labyrinthtombprospector",
-      "labyrinthdealbreaker",
-      "labyrinthpalaceguard",
-      "labyrinthratcatcher",
-      "labyrinthrascal",
-      "labyrinthjeweler",
-      "labyrinthserf",
-      "labyrinthchronicler",
-      "labyrinthlostsoul",
-      "labyrinthtorchbearer",
+      "thelabyrinth:cartwright",
+      "thelabyrinth:chindi",
+      "thelabyrinth:stalker",
+      "thelabyrinth:lamplighter",
+      "thelabyrinth:quack",
+      "thelabyrinth:carnificina",
+      "thelabyrinth:peregrimor",
+      "thethelabyrinth::vigormortis",
+      "thelabyrinth:miasmagus",
+      "thelabyrinth:wight",
+      "thelabyrinth:tombprospector",
+      "thelabyrinth:dealbreaker",
+      "thelabyrinth:palaceguard",
+      "thelabyrinth:ratcatcher",
+      "thelabyrinth:rascal",
+      "thelabyrinth:jeweler",
+      "thelabyrinth:serf",
+      "thelabyrinth:chronicler",
+      "thelabyrinth:lostsoul",
+      "thelabyrinth:torchbearer",
       "DAWN"
     ]
   },
 
   {
-    "id": "labyrinthstargazer",
+    "id": "thelabyrinth:stargazer",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Stargazer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Stargazer/image_evil.png?raw=true"
     ],
     "firstNightReminder": "Wake up the Stargazer and either show a out-of-play Outsider token or signal a no and put them back to sleep.",
     "setup": true,
@@ -70,12 +70,12 @@
     "flavor": "Despite the curfew, they found the night sky is irresistible."
   },
   {
-    "id": "labyrinthtreasurer",
+    "id": "thelabyrinth:treasurer",
     "name": "Treasurer",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Treasurer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Treasurer/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Show the Treasurer 2 Minion tokens, one which is in play and one which is not, or signal a no, then put them back to sleep.",
@@ -84,12 +84,12 @@
     "flavor": "You don’t have to be an alchemist to turn ink into gold."
   },
   {
-    "id": "labyrinthserf",
+    "id": "thelabyrinth:serf",
     "name": "Serf",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Serf/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Serf/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Wake up the serf and have them choose 5 characters on the script. Then show them 1 of their chosen characters and either a thumbs up or a thumbs down, indicating if it is in play or not.",
@@ -99,12 +99,12 @@
     "flavor": "The primary crop of those who till the fields of tyrants is suspicion."
   },
   {
-    "id": "labyrinthrascal",
+    "id": "thelabyrinth:rascal",
     "name": "Rascal",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Rascal/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Rascal/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Wake up the Rascal, show them a character type that corresponds to a player seated X steps away from them, skipping travelers.",
@@ -130,12 +130,12 @@
     "flavor": "I swear, if I get my hands on that little-"
   },
   {
-    "id": "labyrinthcartwright",
+    "id": "thelabyrinth:cartwright",
     "name": "Cartwright",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Cartwright/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Cartwright/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Wake up the Cartwright and have them choose another player, then put the Repaired reminder token on that player.",
@@ -148,12 +148,12 @@
     "flavor": "At the site of a broken cart, everyone’s an expert."
   },
   {
-    "id": "labyrinthchronicler",
+    "id": "thelabyrinth:chronicler",
     "name": "Chronicler",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Chronicler/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Chronicler/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Chronicler/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "otherNightReminder": "Wake up the Chronicler and indicate either 1, 2, 1&2 or 3, depending on which corresponds to the latest executee",
@@ -162,12 +162,12 @@
     "flavor": "The best way to preserve history is with dramatic flair."
   },
   {
-    "id": "labyrinthshepherd",
+    "id": "thelabyrinth:shepherd",
     "name": "Shepherd",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Shepherd/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Shepherd/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Shepherd/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "setup": false,
@@ -175,12 +175,12 @@
     "flavor": "Freedom, fresh air and a whole herd of friends! I dare you to name someone luckier than me!"
   },
   {
-    "id": "labyrinthherald",
+    "id": "thelabyrinth:herald",
     "name": "Herald",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Herald/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Herald/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Herald/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "reminders": [
@@ -191,12 +191,12 @@
     "flavor": "Lord of the common folk, bringer of peace, grand speaker for the commune of spirits, conqueror of Leng & Hyboria, champion of the eternal duel…"
   },
   {
-    "id": "labyrinthjeweler",
+    "id": "thelabyrinth:jeweler",
     "name": "Jeweler",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Jeweler/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Jeweler/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Jeweler/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Wake up the Jeweler and have them indicate if they want to use their ability. If they do, indicate 2 players that has at least 1 living evil player seated between them. Then put the Used token on the Jeweler.",
@@ -209,12 +209,12 @@
     "flavor": "Cut short of perfection."
   },
   {
-    "id": "labyrinthpoet",
+    "id": "thelabyrinth:poet",
     "name": "Poet",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Poet/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Poet/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Wake the Poet and signal that they may choose 3 players. If they do, note those players down with the ✒️ reminder tokens.",
@@ -229,12 +229,12 @@
     "flavor": "In the hand of a poet, the quill cast spells that topple mountains, stirs the oceans and commands the hearts of mighties of monarchs. The tyrant is right to fear them."
   },
   {
-    "id": "labyrinthbraggart",
+    "id": "thelabyrinth:braggart",
     "name": "Braggart",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Braggart/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Braggart/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "reminders": [
@@ -245,12 +245,12 @@
     "flavor": "As a specimen, yes, I’m intimidating!"
   },
   {
-    "id": "labyrinthpalaceguard",
+    "id": "thelabyrinth:palaceguard",
     "name": "Palace Guard",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/PalaceGuard/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/PalaceGuard/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/PalaceGuard/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/PalaceGuard/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "firstNightReminder": "Wake up the Palace Guard and have them choose either clockwise or counter-clockwise. Then show them a token of a character seated closer to them in that direction than the other.",
@@ -267,12 +267,12 @@
     "flavor": "It doesn’t matter how well armed you are if you’re not also prepared to leg it."
   },
   {
-    "id": "labyrinthratcatcher",
+    "id": "thelabyrinth:ratcatcher",
     "name": "Ratcatcher",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ratcatcher/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Ratcatcher/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Ratcatcher/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "reminders": [
@@ -287,12 +287,12 @@
   },
 
   {
-    "id": "labyrinthstalker",
+    "id": "thelabyrinth:stalker",
     "name": "Stalker",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Stalker/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"
     ],
     "team": "outsider",
     "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
@@ -314,12 +314,12 @@
     ]
   },
   {
-    "id": "labyrinthlamplighter",
+    "id": "thelabyrinth:lamplighter",
     "name": "Lamplighter",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Lamplighter/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Lamplighter/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Lamplighter/image_evil.png?raw=true"
     ],
     "team": "outsider",
     "otherNightReminder": "If the Lamplighter nominated today, wake up each evil player in any order and have them choose a player; they learn the player they chose's character.",
@@ -337,12 +337,12 @@
     ]
   },
   {
-    "id": "labyrinthquack",
+    "id": "thelabyrinth:quack",
     "name": "Quack",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Quack/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Quack/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Quack/image_evil.png?raw=true"
     ],
     "team": "outsider",
     "firstNightReminder": "Wake up the Quack and have them choose clockwise or counter-clockwise. Put the Drunk reminder token on the closest good player seated in the chosen direction.",
@@ -365,12 +365,12 @@
     ]
   },
   {
-    "id": "labyrinthhellion",
+    "id": "thelabyrinth:hellion",
     "name": "Hellion",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Hellion/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"
     ],
     "team": "outsider",
     "setup": false,
@@ -385,12 +385,12 @@
   },
 
   {
-    "id": "labyrinthmaggot",
+    "id": "thelabyrinth:maggot",
     "name": "Maggot",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Maggot/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Maggot/image_good.png?raw=true"
     ],
     "team": "minion",
     "reminders": ["Poisoned"],
@@ -398,12 +398,12 @@
     "flavor": "The early worm eats the bird."
   },
   {
-    "id": "labyrinthtroglodyte",
+    "id": "thelabyrinth:troglodyte",
     "name": "Troglodyte",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Troglodyte/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Troglodyte/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Troglodyte/image_good.png?raw=true"
     ],
     "team": "minion",
     "reminders": [
@@ -417,12 +417,12 @@
     "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
   },
   {
-    "id": "labyrinthwight",
+    "id": "thelabyrinth:wight",
     "name": "Wight",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Wight/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"
     ],
     "team": "minion",
     "firstNightReminder": "Wake up the Wight and have them choose a player. Put the Haunted reminder token on the chosen player.",
@@ -437,12 +437,12 @@
     "flavor": "Rust and mold are not shackles that will hold the vengeful spirit."
   },
   {
-    "id": "labyrinthchindi",
+    "id": "thelabyrinth:chindi",
     "name": "Chindi",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Chindi/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Chindi/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Chindi/image_good.png?raw=true"
     ],
     "team": "minion",
     "reminders": [
@@ -459,12 +459,12 @@
   },
 
   {
-    "id": "labyrinthcarnificina",
+    "id": "thelabyrinth:carnificina",
     "name": "Carnificina",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Carnificina/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Carnificina/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Carnificina/image_good.png?raw=true"
     ],
     "team": "demon",
     "firstNightReminder": "Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
@@ -479,12 +479,12 @@
     "flavor": "Hunger."
   },
   {
-  "id": "labyrinthbastantes",
+  "id": "thelabyrinth:bastantes",
   "name": "Bastantes",
   "edition": "custom",
   "image": [
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Bastantes/image.png?raw=true",
-    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Bastantes/image_good.png?raw=true"
+    "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Bastantes/image.png?raw=true",
+    "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Bastantes/image_good.png?raw=true"
   ],
   "team": "demon",
   "otherNightReminder": "Wake up the Bastantes and have them choose a player. Put the Dead reminder token on that player. Then you may wake another player and show them a prepared text with the Devil's Bargain you wish to offer them.",
@@ -496,12 +496,12 @@
   "ability": "Each night*, choose a player; they die. Then, a dead player might be offered a Devil’s Bargain. A Devil’s Bargain must be accepted publicly during the day."
   },
   {
-    "id": "labyrinthmiasmagus",
+    "id": "thelabyrinth:miasmagus",
     "name": "Miasmagus",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Miasmagus/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Miasmagus/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Miasmagus/image_good.png?raw=true"
     ],
     "team": "demon",
     "otherNightReminder": "Wake up the Miasmagus and have them choose a player. Put the Dead reminder token on the chosen player. Then, if that player is an Outsider, put the Poisoned reminder token on a Townsfolk player",
@@ -514,12 +514,12 @@
     "flavor": "The sweet and intoxicating scent of putrefaction seems especially heavy in the labyrinth."
   },
   {
-    "id": "labyrinthperegrimor",
+    "id": "thelabyrinth:peregrimor",
     "name": "Peregrimor",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Peregrimor/image_good.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Peregrimor/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Demon/Peregrimor/image_good.png?raw=true"
     ],
     "team": "demon",
     "firstNightReminder": "Wake up the Peregrimor and show them each player that is an Outsider. Then wake up each evil Outsider in turn and show them the player that is the Peregrimor.",
@@ -532,13 +532,13 @@
   },
 
   {
-    "id": "labyrinthdealbreaker",
+    "id": "thelabyrinth:dealbreaker",
     "name": "Dealbreaker",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Dealbreaker/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Dealbreaker/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Dealbreaker/image_evil.png?raw=true"
     ],
     "team": "traveller",
     "firstNightReminder": "Have the Dealbreaker indicate 1 or 2. If they indicate 1, indicate a drunk/poisoned player or indicate a no if there are none. If they indicate a 2, show them a out-of-play character token.",
@@ -548,13 +548,13 @@
     "flavor": "You only had to choose; freedom or life? For your greed you shall have neither."
   },
   {
-    "id": "labyrinthtombprospector",
+    "id": "thelabyrinth:tombprospector",
     "name": "Tomb Prospector",
     "edition": "Custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/TombProspector/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/TombProspector/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/TombProspector/image_evil.png?raw=true"
     ],
     "team": "traveller",
     "otherNightReminder": "Have the Tomb Prospector choose a player they believe to be alive. Then, if that player is alive, wake them up and indicate a dead player and give them a true statement about that player",
@@ -563,13 +563,13 @@
     "flavor": "Don’t go that way! Never go that way!"
   },
   {
-    "id": "labyrinthlostsoul",
+    "id": "thelabyrinth:lostsoul",
     "name": "Lost Soul",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/LostSoul/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/LostSoul/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/LostSoul/image_evil.png?raw=true"
     ],
     "team": "traveller",
     "otherNightReminder": "Have the Lost Soul choose a player; publicly announce the player and character.",
@@ -578,13 +578,13 @@
     "flavor": "Any company is better than to wander the dark alone."
   },
   {
-    "id": "labyrinthtorchbearer",
+    "id": "thelabyrinth:torchbearer",
     "name": "Torchbearer",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Torchbearer/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Torchbearer/image_good.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Torchbearer/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Torchbearer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Torchbearer/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Torchbearer/image_evil.png?raw=true"
     ],
     "team": "traveller",
     "setup": false,
@@ -592,13 +592,13 @@
     "flavor": "The way is lit. The path is clear. We require only the strength to follow it."
   },
   {
-    "id": "labyrinthscryer",
+    "id": "thelabyrinth:scryer",
     "name": "Scryer",
     "edition": "custom",
     "image": [
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true",
-      "https://github.com/Grumbletok/The-Labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Scryer/image.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Scryer/image_good.png?raw=true",
+      "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
     ],
     "team": "traveller",
     "firstNight": 22,
