@@ -510,7 +510,7 @@
       "Poisoned"
     ],
     "setup": true,
-    "ability": "Each night*, choose a player; they die. When an Outsider dies this way, one Townsfolk player is poisoned until an Outsider dies.[+1 Outsider or; an Outsider might be duplicated]",
+    "ability": "Each night*, choose a player; they die. When you kill an Outsider, 1 player is poisoned until an Outsider dies.[+1 Outsider or; an Outsider might be duplicated]",
     "flavor": "The sweet and intoxicating scent of putrefaction seems especially heavy in the labyrinth."
   },
   {
