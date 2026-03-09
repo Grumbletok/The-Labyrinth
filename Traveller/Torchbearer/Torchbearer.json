@@ -9,6 +9,6 @@
   ],
   "team": "traveller",
   "setup": false,
-  "ability": "Each night, choose 2 players (not yourself); 1 learns a true statement, the other learns a false statement.",
-  "flavor": "The way is lit. The path is clear. We require only the strength to follow it."
+  "ability": "Each night, choose a player (not yourself); you each learn a statement, 1 false and 1 true.",
+  
 }
