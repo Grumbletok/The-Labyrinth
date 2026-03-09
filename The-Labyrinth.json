@@ -19,6 +19,7 @@
       "thelabyrinth:quack",
       "thelabyrinth:treasurer",
       "thelabyrinth:dealbreaker",
+      "thelabyrinth:torchbearer",
       "thelabyrinth:poet",
       "thelabyrinth:palaceguard",
       "thelabyrinth:stargazer",
@@ -26,7 +27,6 @@
       "thelabyrinth:jeweler",
       "thelabyrinth:serf",
       "thelabyrinth:scryer",
-      "thelabyrinth:torchbearer",
       "DAWN"
     ],
     "otherNight": [
@@ -43,6 +43,7 @@
       "thelabyrinth:wight",
       "thelabyrinth:tombprospector",
       "thelabyrinth:dealbreaker",
+      "thelabyrinth:torchbearer",
       "thelabyrinth:palaceguard",
       "thelabyrinth:ratcatcher",
       "thelabyrinth:rascal",
@@ -50,7 +51,6 @@
       "thelabyrinth:serf",
       "thelabyrinth:chronicler",
       "thelabyrinth:lostsoul",
-      "thelabyrinth:torchbearer",
       "DAWN"
     ]
   },
