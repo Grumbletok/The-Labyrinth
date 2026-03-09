@@ -14,6 +14,6 @@
     "Trog 3"
   ],
   "setup": false,
-  "ability": "You start knowing one not-in-play Outsider, and if you have their ability. You might register as an Outsider.",
+  "ability": "You start knowing 1 Outsider, and have their ability. You might register as an Outsider.",
   "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
 }
