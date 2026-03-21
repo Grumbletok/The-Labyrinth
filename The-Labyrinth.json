@@ -607,7 +607,7 @@
     "firstNight": 22,
     "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
     "setup": false,
-    "ability": "On your 1st night you see a quarter of the Grimoire.",
+    "ability": "On your 1st night, you see the Grimoire. 75% of the characters (and their related reminders) are incorrect.",
     "flavor": "The tyrant’s favor is fickle."
   }
 ]
