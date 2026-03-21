@@ -5,8 +5,8 @@
   "team": "townsfolk",
   "edition": "custom",
   "image": [
-    "",
-    ""
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ambassador/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Townsfolk/Ambassador/image_evil.png?raw=true"
   ],
   "otherNightReminder": "If the Demon killed the Ambassador tonight, put either the DRUNK reminder token on an evil non-Demon player OR the TIPSY reminder token on the Demon.",
   "reminders": [
