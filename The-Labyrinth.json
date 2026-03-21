@@ -281,7 +281,8 @@
       "Drunk",
       "Drunk",
       "Drunk",
-      "Drunk"
+      "Drunk",
+      "Caught"
     ],
     "setup": true,
     "ability": "Outsiders you nominate are drunk until dawn, and stay drunk from now on if executed. When an Outsider is executed, learn their alignment.[+1 Outsider]",
