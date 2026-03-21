@@ -284,8 +284,8 @@
       "Drunk"
     ],
     "setup": true,
-    "ability": "Outsiders you nominate are drunk until dawn, and stay drunk from now on if executed. Executed Outsiders learn who you are. [+1 Outsider]",
-    "flavor": "Hello Mister Rat! Have you met my friend, Mister Key?"
+    "ability": "Outsiders you nominate are drunk until dawn, and stay drunk from now on if executed. When an Outsider is executed, learn their alignment.[+1 Outsider]",
+    "flavor": "A pipe? No thanks, I don't smoke."
   },
 
   {
