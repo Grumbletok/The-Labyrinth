@@ -9,7 +9,7 @@
     ""
   ],
   "otherNightReminder": "If the Demon killed the Ambassador tonight, put either the DRUNK reminder token on an evil non-Demon player OR the TIPSY reminder token on the Demon.",
-  "remindersGlobal": [
+  "reminders": [
     "Drunk",
     "Tipsy"
   ],
