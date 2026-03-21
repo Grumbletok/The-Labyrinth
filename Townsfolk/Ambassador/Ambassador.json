@@ -1,0 +1,19 @@
+{
+  "id": "ambassador",
+  "name": "Ambassador",
+  "author": "Grumbletok",
+  "team": "townsfolk",
+  "edition": "custom",
+  "image": [
+    "",
+    ""
+  ],
+  "otherNightReminder": "If the Demon killed the Ambassador tonight, put either the DRUNK reminder token on an evil non-Demon player OR the TIPSY remidner token on the Demon.",
+  "remindersGlobal": [
+    "Drunk",
+    "Tipsy"
+  ],
+  "ability": "When you die at night, an evil non-Demon player is drunk from now on OR; the Demon is drunk the following night.",
+    }
+  ]
+}
