@@ -10,6 +10,7 @@
   ],
   "firstNightReminder": "Wake the Demon and tell them a Dare to do today.",
   "otherNightReminder": "If the Demon is not marked with the *BOLD* reminder, wake the Spice Trader and tell them something about the Demon. Put them back to sleep. Remove any *BOLD* reminder from the Demon. Wake the Demon and tell them a Dare to do today.",
+  "flavor": "Why, can't take a little heat?",
   "remindersGlobal": [
     "BOLD"
   ],
