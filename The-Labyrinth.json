@@ -15,8 +15,8 @@
       "thelabyrinth:spicetrader", 
       "thelabyrinth:cartwright",
       "thelabyrinth:stalker",
+      "thelabyrinth:katadix",
       "thelabyrinth:carnificina",
-      "thelabyrinth:wight",
       "thelabyrinth:quack",
       "thelabyrinth:treasurer",
       "thelabyrinth:dealbreaker",
@@ -37,12 +37,12 @@
       "thelabyrinth:lamplighter",
       "thelabyrinth:quack",
       "thelabyrinth:spicetrader",
+      "thelabyrinth:katadix",
       "thelabyrinth:carnificina",
       "thelabyrinth:peregrimor",
       "thethelabyrinth::vigormortis",
       "thelabyrinth:miasmagus",
       "thelabyrinth:ambassador",
-      "thelabyrinth:wight",
       "thelabyrinth:tombprospector",
       "thelabyrinth:dealbreaker",
       "thelabyrinth:torchbearer",
@@ -435,25 +435,22 @@
     "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
   },
   {
-    "id": "thelabyrinth:wight",
-    "name": "Wight",
-    "edition": "custom",
-    "image": [
-      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Wight/image.png?raw=true",
-      "https://github.com/Grumbletok/The-labyrinth/blob/main/Minion/Wight/image_good.png?raw=true"
-    ],
-    "team": "minion",
-    "firstNightReminder": "Wake up the Wight and have them choose a player. Put the Haunted reminder token on the chosen player.",
-    "otherNightReminder": "If the player with the Haunted reminder token on them was executed yesterday and; if the Wight is alive, put the Dead reminder token on a living player or; if the Wight is dead, put the Returned reminder token on the Wight.",
-    "reminders": [
-      "Haunted",
-      "Dead",
-      "Returned"
-    ],
-    "setup": false,
-    "ability": "On your 1st night, choose a living player (not yourself); When they are executed, you are resurrected the following dawn. If you cannot be resurrected, a player dies instead.",
-    "flavor": "Rust and mold are not shackles that will hold the vengeful spirit."
-  },
+  "id": "thelabyrinth:katadix",
+  "name": "Katadix",
+  "edition": "custom",
+  "image": [
+    "",
+    ""
+  ],
+  "team": "minion",
+  "reminders": [
+    "Burdened",
+    "Burdened"
+  ],
+  "setup": false,
+  "ability": "Each night, choose 2 players; today, their first vote secretly does not count.",
+  "flavor": "Some evils are found; others we carry with us."
+},
   {
     "id": "thelabyrinth:chindi",
     "name": "Chindi",
