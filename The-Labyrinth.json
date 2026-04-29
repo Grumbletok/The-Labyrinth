@@ -439,8 +439,8 @@
   "name": "Katadix",
   "edition": "custom",
   "image": [
-    "",
-    ""
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image.png?raw=true",
+    "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image_good.png?raw=true"
   ],
   "team": "minion",
   "reminders": [
