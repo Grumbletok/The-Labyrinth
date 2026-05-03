@@ -128,7 +128,7 @@
       "7"
     ],
     "setup": false,
-    "ability": "Each night, you learn the character type of a player seated X steps away from you(skipping travelers), were X is the current night number.",
+    "ability": "Each night, you learn the character type of a player seated X steps away from you (excluding travelers), where X is the current night number.",
     "flavor": "I swear, if I get my hands on that little-"
   },
   {
