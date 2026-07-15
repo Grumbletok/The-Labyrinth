@@ -282,7 +282,7 @@
       "⮟"
     ],
     "setup": false,
-    "ability": "You start by choosing a direction, even if drunk or poisoned. Each night, learn a character of a player further in that direction than last night's character.",
+    "ability": "On your 1st night, choose a direction. Each night, learn a character of a player further in that direction than last night's character.",
     "flavor": "It doesn’t matter how well armed you are if you’re not also prepared to leg it."
   },
   {
@@ -450,7 +450,7 @@
     "Burdened"
   ],
   "setup": false,
-  "ability": "Each night, choose 2 players; today, their first vote secretly does not count.",
+  "ability": "Each night, choose 2 players (only 1 may be evil); today, their vote secretly does not count.",
   "flavor": "Some evils are found; others we carry with us."
 },
   {
@@ -488,7 +488,9 @@
     "otherNightReminder": "If all players with Prey tokens on them live, put a Dead token on 2 of them. If at least 1 of the players with a Prey token on them is dead, instead put a Dead token on any living player. Then remove all Prey tokens. Wake up the Carnificina and have them choose 3 living players. Put a Prey token on each of those players. Put the Aware token on one of those players and wake them up. Show them Carnificina token and the 2 other chosen players.",
     "reminders": [
       "Prey",
-      "Aware",
+      "Prey",
+      "Prey & Aware",
+      "Dead",
       "Dead"
     ],
     "setup": false,
@@ -507,7 +509,10 @@
   "otherNightReminder": "Wake up the Bastantes and have them choose a player. Put the Dead reminder token on that player. Then you may wake another player and show them a prepared text with the Devil's Bargain you wish to offer them.",
   "reminders": [
     "Dead",
-    "Devil's Bargain"
+    "Devil's Bargain",
+    "X",
+    "X",
+    "X"
   ],
   "setup": false,
   "ability": "Each night*, choose a player; they die. Then, a dead player might be offered a Devil’s Bargain. A Devil’s Bargain must be accepted publicly during the day."
