@@ -12,6 +12,6 @@
     "Burdened"
   ],
   "setup": false,
-  "ability": "Each night, choose 2 players; today, their first vote secretly does not count.",
+  "ability": "Each night, choose 2 players (only 1 may be evil); today, their vote secretly does not count.",
   "flavor": "Some evils are found; others we carry with us."
 }
