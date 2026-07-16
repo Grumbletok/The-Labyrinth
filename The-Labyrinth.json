@@ -394,9 +394,10 @@
       "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"
     ],
     "team": "outsider",
-    "reminders": 
-    
-    ["Still Active"],
+    "reminders":
+    [
+    "Still Active"
+    ],
     
     "setup": false,
     "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon.",
