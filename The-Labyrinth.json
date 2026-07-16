@@ -40,7 +40,7 @@
       "thelabyrinth:katadix",
       "thelabyrinth:carnificina",
       "thelabyrinth:peregrimor",
-      "thethelabyrinth::vigormortis",
+      "thethelabyrinth:bastantes",
       "thelabyrinth:miasmagus",
       "thelabyrinth:ambassador",
       "thelabyrinth:tombprospector",
@@ -294,6 +294,7 @@
       "https://github.com/Grumbletok/The-labyrinth/blob/main/Townsfolk/Ratcatcher/image_evil.png?raw=true"
     ],
     "team": "townsfolk",
+    "otherNightReminder":,
     "reminders": [
       "Drunk",
       "Drunk",
@@ -393,6 +394,7 @@
       "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Hellion/image_evil.png?raw=true"
     ],
     "team": "outsider",
+    "reminders": ["Still Active"],
     "setup": false,
     "ability": "One more vote is secretly needed to mark players for execution. You keep this ability when killed by the demon.",
     "flavor": "A striking addition to any social occasion.",
@@ -545,6 +547,7 @@
     ],
     "team": "demon",
     "firstNightReminder": "Wake up the Peregrimor and show them each player that is an Outsider. Then wake up each evil Outsider in turn and show them the player that is the Peregrimor.",
+    "otherNightReminder":,
     "reminders": [
       "Dead"
     ],
