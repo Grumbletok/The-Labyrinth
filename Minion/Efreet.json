@@ -1,1 +1,17 @@
+{
+  "id": "thelabyrinth:efreet",
+  "name": "Efreet",
+  "edition": "custom",
+  "image": [
+    "",
+    ""
+  ],
+  "team": "minion",
+  "reminders": [
+    "Poisoned",
+  ],
+  "setup": false,
+  "ability": "Each night, choose a player; you learn their character. Then, once per game, you may swap characters with them. If you do, they are poisoned.",
+  "flavor": "There is no light in the catacombs, but some beings even the dark avoids."
+}
 
