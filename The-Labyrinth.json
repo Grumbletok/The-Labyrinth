@@ -453,7 +453,7 @@
   "reminders": [
     "Poisoned"
   ],
-  "setup": false,
+    "setup": false,
   "ability": "Each night, choose a player; you learn their character. Then, once per game, you may swap characters with them. If you do, they are poisoned.",
   "flavor": "There is no light in the catacombs, but there are some beings that even the dark avoids."
 },
