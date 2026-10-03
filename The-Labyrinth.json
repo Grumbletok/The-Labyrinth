@@ -451,7 +451,7 @@
   ],
   "team": "minion",
   "reminders": [
-    "Poisoned",
+    "Poisoned"
   ],
   "setup": false,
   "ability": "Each night, choose a player; you learn their character. Then, once per game, you may swap characters with them. If you do, they are poisoned.",
