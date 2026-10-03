@@ -15,7 +15,7 @@
       "thelabyrinth:spicetrader", 
       "thelabyrinth:cartwright",
       "thelabyrinth:stalker",
-      "thelabyrinth:katadix",
+      "thelabyrinth:efreet",
       "thelabyrinth:carnificina",
       "thelabyrinth:quack",
       "thelabyrinth:treasurer",
@@ -37,7 +37,7 @@
       "thelabyrinth:lamplighter",
       "thelabyrinth:quack",
       "thelabyrinth:spicetrader",
-      "thelabyrinth:katadix",
+      "thelabyrinth:efreet",
       "thelabyrinth:carnificina",
       "thelabyrinth:peregrimor",
       "thelabyrinth:bastantes",
@@ -442,8 +442,8 @@
     "flavor": "Feeding on a diet of cave slime and fungi, sometimes these vile critters make their way up from the pools of stagnant waters far below the catacombs."
   },
   {
-  "id": "thelabyrinth:katadix",
-  "name": "Katadix",
+  "id": "thelabyrinth:efreet",
+  "name": "Efreet",
   "edition": "custom",
   "image": [
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Demon/Linguamori/image.png?raw=true",
@@ -451,12 +451,11 @@
   ],
   "team": "minion",
   "reminders": [
-    "Burdened",
-    "Burdened"
+    "Poisoned",
   ],
   "setup": false,
-  "ability": "Each night, choose 2 players (only 1 may be evil); today, their vote secretly does not count.",
-  "flavor": "Some evils are found; others we carry with us."
+  "ability": "Each night, choose a player; you learn their character. Then, once per game, you may swap characters with them. If you do, they are poisoned.",
+  "flavor": "There is no light in the catacombs, but there are some beings that even the dark avoids."
 },
   {
     "id": "thelabyrinth:chindi",
