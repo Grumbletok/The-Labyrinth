@@ -14,7 +14,6 @@
       "thelabyrinth:maggot",
       "thelabyrinth:spicetrader", 
       "thelabyrinth:cartwright",
-      "thelabyrinth:stalker",
       "thelabyrinth:efreet",
       "thelabyrinth:carnificina",
       "thelabyrinth:quack",
@@ -33,7 +32,6 @@
       "DUSK",
       "thelabyrinth:cartwright",
       "thelabyrinth:chindi",
-      "thelabyrinth:stalker",
       "thelabyrinth:lamplighter",
       "thelabyrinth:quack",
       "thelabyrinth:spicetrader",
@@ -315,16 +313,12 @@
       "https://github.com/Grumbletok/The-labyrinth/blob/main/Outsider/Stalker/image_evil.png?raw=true"
     ],
     "team": "outsider",
-    "firstNightReminder": "Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
-    "otherNightReminder": "Remove any Stalked reminder tokens from players. Wake up the Stalker and have them choose a player; put a Stalked reminder token on that player.",
     "reminders": [
       "Stalked",
-      "Stalked 2",
-      "Stalked 3",
-      "Stalked 4"
+      "Stalked"
     ],
     "setup": true,
-    "ability": "Each night, choose another, living player; reminder tokens that would be placed on that player tonight might be placed on you instead. [-1/+0/+1 Outsider]",
+    "ability": "Abilities that would interact with either of your living neighbors might interact with you instead. Your living neighbors might register as your character and alignment. [-1 to +1 Stalker]",
     "flavor": "Hello? Is anybody there?",
     "special": [
       {
