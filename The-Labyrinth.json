@@ -624,7 +624,6 @@
       "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
     ],
     "team": "traveller",
-    "firstNight":
     "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
     "setup": false,
     "ability": "On your 1st night, you see the Grimoire. 75% of the characters (and their related reminders) are incorrect.",
