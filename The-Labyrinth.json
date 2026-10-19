@@ -608,6 +608,9 @@
     ],
     "team": "traveller",
     "setup": false,
+        "reminders": [
+      "Guided"
+    ],
     "ability": "Each night, choose a player (not yourself); you each learn a statement, 1 false and 1 true.",
     "flavor": "The way is lit. The path is clear. We require only the strength to follow it."
   },
@@ -621,7 +624,7 @@
       "https://github.com/Grumbletok/The-labyrinth/blob/main/Traveller/Scryer/image_evil.png?raw=true"
     ],
     "team": "traveller",
-    "firstNight": 22,
+    "firstNight":
     "firstNightReminder": "Somehow obscure 3/4ths of the Grimoire, then show it to the Scryer.",
     "setup": false,
     "ability": "On your 1st night, you see the Grimoire. 75% of the characters (and their related reminders) are incorrect.",
