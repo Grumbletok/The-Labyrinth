@@ -444,6 +444,8 @@
     "https://github.com/Grumbletok/The-Labyrinth/blob/main/Minion/Efreet/image_good.png?raw=true"
   ],
   "team": "minion",
+  "firstNightReminder": ,
+  "otherNightReminder": ,
   "reminders": [
     "Poisoned"
   ],
