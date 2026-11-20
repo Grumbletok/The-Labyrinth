@@ -158,7 +158,7 @@
     "team": "townsfolk",
     "otherNightReminder": "Wake up the Chronicler and point to a player that does not share a character type with the recently killed executee.",
     "setup": false,
-    "ability": "Each night*, learn a player of a different character type for the recently killed executee. If they were poisoned/drunk, learn that instead.",
+    "ability": "Each night*, learn a player of a different character type than the recently killed executee. If they were poisoned/drunk, learn that instead.",
     "flavor": "The preservation of history is a task transcending any single life. I am no exception."
   },
   {
